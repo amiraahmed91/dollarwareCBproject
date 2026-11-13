@@ -8,10 +8,10 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: demo_033
+featured-image: https://mvsfservicefabriccato.blob.core.windows.net/medialibrary-144a3c05c0de483192f42d41ad0ed1ba-r/08a102bf89c24e55a4545328da0da85b/08a102bf89c24e55a4545328da0da85b/Large/ubco-zoom-logo-pattern-secondary_50516995601_o.jpg?sv=2017-04-17&sr=b&si=202504012106&sig=hg5lBCTT5Xozogp%2FHLsZ%2BO7jzaX5pWj4%2F458TI%2B6Oqo%3D&st=0001-01-01T00%3A00%3A00Z&se=2036-11-12T11%3A39%3A48Z
 featured-image-alt-text: # add alt text if using url for featured-image (objectid will be automatic from metadata)
 # optional: add extra padding above collection title for a larger image feature. 
-home-title-y-padding: 10em # the margin from the top your title portion will appear.
+home-title-y-padding: 1em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: center # Default is center
 

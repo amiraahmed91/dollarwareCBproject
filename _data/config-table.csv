@@ -1,5 +1,11 @@
 field,display_name
 title,Title
-date,Date
-description,Description
-subject,Subjects
+location,Location,,,,
+weight,Weight (g)
+topexternaldiametermm,Top External Diameter (mm)	
+topinternaldiametermm,Top Internal Diameter (mm)	
+heightmm,Height (mm)	
+rimthicknessmm,Rim Thickness (mm)	
+basediametermm,Base Diameter (mm)
+volumeml,Volume (ml)	
+displacementml,Displacement (ml)
