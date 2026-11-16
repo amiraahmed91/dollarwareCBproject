@@ -1,0 +1,423 @@
+objectid,title,location,weightg,topexternaldiametermm ,topinternaldiameter ,heightmm,rimthicknessmm,basediametermm,volumeml,displacementml,type,format,image,object_location,image_small,image_thumb
+dollarware_01,A-01,Site A_ Varieté Dollar Depot,371.6,81.9,74.5,95.9,4,80.6,323.7,161,Image;StillImage,image/jpg,image,/objects/a-01.jpg,/objects/small/a-01_sm.jpg,/objects/thumbs/a-01_th.jpg
+dollarware_02,A-02,Site A_ Varieté Dollar Depot,405.1,84.2,76,97.4,4.1,82.9,335.7,184,Image;StillImage,image/jpg,image,/objects/a-02.jpg,/objects/small/a-02_sm.jpg,/objects/thumbs/a-02_th.jpg
+dollarware_03,A-03,Site A_ Varieté Dollar Depot,374.8,82,74.1,95.7,3.9,79.9,311.3,175,Image;StillImage,image/jpg,image,/objects/a-03.jpg,/objects/small/a-03_sm.jpg,/objects/thumbs/a-03_th.jpg
+dollarware_04,A-04,Site A_ Varieté Dollar Depot,391.1,84.3,75.9,97.5,4.4,83.3,352.2,177,Image;StillImage,image/jpg,image,/objects/a-04.jpg,/objects/small/a-04_sm.jpg,/objects/thumbs/a-04_th.jpg
+dollarware_05,A-05,Site A_ Varieté Dollar Depot,371,81.6,73.7,95.6,3.8,80.6,328.2,168,Image;StillImage,image/jpg,image,/objects/a-05.jpg,/objects/small/a-05_sm.jpg,/objects/thumbs/a-05_th.jpg
+dollarware_06,A-06,Site A_ Varieté Dollar Depot,370.2,82.4,73.9,96.2,4.1,80.2,327.3,148,Image;StillImage,image/jpg,image,/objects/a-06.jpg,/objects/small/a-06_sm.jpg,/objects/thumbs/a-06_th.jpg
+dollarware_07,A-07,Site A_ Varieté Dollar Depot,164.4,59.4,52.5,64.1,3.1,58.7,109.6,77,Image;StillImage,image/jpg,image,/objects/a-07.jpg,/objects/small/a-07_sm.jpg,/objects/thumbs/a-07_th.jpg
+dollarware_08,A-08,Site A_ Varieté Dollar Depot,124.8,61.5,51.7,47.3,4.7,41.3,70.2,56,Image;StillImage,image/jpg,image,/objects/a-08.jpg,/objects/small/a-08_sm.jpg,/objects/thumbs/a-08_th.jpg
+dollarware_09,A-09,Site A_ Varieté Dollar Depot,275.1,91.7,81.4,76.5,4.9,51.9,274.2,118,Image;StillImage,image/jpg,image,/objects/a-09.jpg,/objects/small/a-09_sm.jpg,/objects/thumbs/a-09_th.jpg
+dollarware_10,A-10,Site A_ Varieté Dollar Depot,412.9,110.2,101.3,64.8,4.6,110.1,381.4,170,Image;StillImage,image/jpg,image,/objects/a-10.jpg,/objects/small/a-10_sm.jpg,/objects/thumbs/a-10_th.jpg
+dollarware_11,A-11,Site A_ Varieté Dollar Depot,351.9,93.4,84.8,100.8,4.6,63.3,333.2,155,Image;StillImage,image/jpg,image,/objects/a-11.jpg,/objects/small/a-11_sm.jpg,/objects/thumbs/a-11_th.jpg
+dollarware_12,A-12,Site A_ Varieté Dollar Depot,228.3,82.3,73.5,96,3.1,47.7,259.1,104,Image;StillImage,image/jpg,image,/objects/a-12.jpg,/objects/small/a-12_sm.jpg,/objects/thumbs/a-12_th.jpg
+dollarware_13,A-13,Site A_ Varieté Dollar Depot,288.1,78.1,70.8,93.3,4,74.1,260.8,141,Image;StillImage,image/jpg,image,/objects/a-13.jpg,/objects/small/a-13_sm.jpg,/objects/thumbs/a-13_th.jpg
+dollarware_14,A-14,Site A_ Varieté Dollar Depot,291.3,77.6,70.2,94.2,3.9,73.8,266.6,144,Image;StillImage,image/jpg,image,/objects/a-14.jpg,/objects/small/a-14_sm.jpg,/objects/thumbs/a-14_th.jpg
+dollarware_15,A-15,Site A_ Varieté Dollar Depot,479.6,88.5,81.5,147.2,3.6,61.4,455.7,200,Image;StillImage,image/jpg,image,/objects/a-15.jpg,/objects/small/a-15_sm.jpg,/objects/thumbs/a-15_th.jpg
+dollarware_16,A-16,Site A_ Varieté Dollar Depot,381.4,97.2,89,105.8,4.3,64.5,358.1,139,Image;StillImage,image/jpg,image,/objects/a-16.jpg,/objects/small/a-16_sm.jpg,/objects/thumbs/a-16_th.jpg
+dollarware_17,A-17,Site A_ Varieté Dollar Depot,263.7,82.1,77.2,103.7,2.1,53.3,338.6,118,Image;StillImage,image/jpg,image,/objects/a-17.jpg,/objects/small/a-17_sm.jpg,/objects/thumbs/a-17_th.jpg
+dollarware_18,A-18,Site A_ Varieté Dollar Depot,364.1,94.3,86.1,101.8,4,63.1,343.1,158,Image;StillImage,image/jpg,image,/objects/a-18.jpg,/objects/small/a-18_sm.jpg,/objects/thumbs/a-18_th.jpg
+dollarware_19,A-19,Site A_ Varieté Dollar Depot,254.2,88.9,76.9,98.3,5.5,60.9,331.9,157,Image;StillImage,image/jpg,image,/objects/a-19.jpg,/objects/small/a-19_sm.jpg,/objects/thumbs/a-19_th.jpg
+dollarware_20,A-20,Site A_ Varieté Dollar Depot,274.5,76,70.8,104.1,2.5,71,296.2,117,Image;StillImage,image/jpg,image,/objects/a-20.jpg,/objects/small/a-20_sm.jpg,/objects/thumbs/a-20_th.jpg
+dollarware_21,A-21,Site A_ Varieté Dollar Depot,386.5,98.5,89.4,112.3,4.1,53.1,459.1,164,Image;StillImage,image/jpg,image,/objects/a-21.jpg,/objects/small/a-21_sm.jpg,/objects/thumbs/a-21_th.jpg
+dollarware_22,B-01,Site B_ Le Même Prix Plus,269.2,76.4,70.9,103.7,2.9,70.8,283.6,110,Image;StillImage,image/jpg,image,/objects/b-01.jpg,/objects/small/b-01_sm.jpg,/objects/thumbs/b-01_th.jpg
+dollarware_23,B-02,Site B_ Le Même Prix Plus,344.7,81.1,74.1,98.5,3.6,81.1,327.5,149,Image;StillImage,image/jpg,image,/objects/b-02.jpg,/objects/small/b-02_sm.jpg,/objects/thumbs/b-02_th.jpg
+dollarware_24,B-03,Site B_ Le Même Prix Plus,365.1,81.1,74.5,97.6,4,80,330.9,158,Image;StillImage,image/jpg,image,/objects/b-03.jpg,/objects/small/b-03_sm.jpg,/objects/thumbs/b-03_th.jpg
+dollarware_25,B-04,Site B_ Le Même Prix Plus,511.6,116,105.4,88.1,5.5,66.4,581.7,232,Image;StillImage,image/jpg,image,/objects/b-04.jpg,/objects/small/b-04_sm.jpg,/objects/thumbs/b-04_th.jpg
+dollarware_26,B-05,Site B_ Le Même Prix Plus,314.5,85.6,79,113.5,4.2,65.3,353.6,139,Image;StillImage,image/jpg,image,/objects/b-05.jpg,/objects/small/b-05_sm.jpg,/objects/thumbs/b-05_th.jpg
+dollarware_27,B-06,Site B_ Le Même Prix Plus,370.6,79.4,71.3,95.6,4.2,79.4,311,154,Image;StillImage,image/jpg,image,/objects/b-06.jpg,/objects/small/b-06_sm.jpg,/objects/thumbs/b-06_th.jpg
+dollarware_28,B-07,Site B_ Le Même Prix Plus,288.6,86.4,78.4,105.5,3.1,59.2,312.5,113,Image;StillImage,image/jpg,image,/objects/b-07.jpg,/objects/small/b-07_sm.jpg,/objects/thumbs/b-07_th.jpg
+dollarware_29,B-08,Site B_ Le Même Prix Plus,295.9,88.4,78.9,104.2,4.5,56.5,337.6,137,Image;StillImage,image/jpg,image,/objects/b-08.jpg,/objects/small/b-08_sm.jpg,/objects/thumbs/b-08_th.jpg
+dollarware_30,B-09,Site B_ Le Même Prix Plus,276.9,89.1,81.5,95.7,3,63.3,373.1,118,Image;StillImage,image/jpg,image,/objects/b-09.jpg,/objects/small/b-09_sm.jpg,/objects/thumbs/b-09_th.jpg
+dollarware_31,B-10,Site B_ Le Même Prix Plus,373,81.5,72.6,97.4,4.6,80,324.3,155,Image;StillImage,image/jpg,image,/objects/b-10.jpg,/objects/small/b-10_sm.jpg,/objects/thumbs/b-10_th.jpg
+dollarware_32,B-11,Site B_ Le Même Prix Plus,330.7,84.5,74.5,105.8,5.3,58.1,329.9,137,Image;StillImage,image/jpg,image,/objects/b-11.jpg,/objects/small/b-11_sm.jpg,/objects/thumbs/b-11_th.jpg
+dollarware_33,B-12,Site B_ Le Même Prix Plus,379,91,81.7,105.3,4.3,56,334.6,162,Image;StillImage,image/jpg,image,/objects/b-12.jpg,/objects/small/b-12_sm.jpg,/objects/thumbs/b-12_th.jpg
+dollarware_34,B-13,Site B_ Le Même Prix Plus,267.3,76.6,67.3,103.5,3.2,71.2,299.9,124,Image;StillImage,image/jpg,image,/objects/b-13.jpg,/objects/small/b-13_sm.jpg,/objects/thumbs/b-13_th.jpg
+dollarware_35,B-14,Site B_ Le Même Prix Plus,340.4,85.4,75.4,106,5,59.1,341,159,Image;StillImage,image/jpg,image,/objects/b-14.jpg,/objects/small/b-14_sm.jpg,/objects/thumbs/b-14_th.jpg
+dollarware_36,B-15,Site B_ Le Même Prix Plus,403.9,90.5,79.7,105.8,5,55,340.4,163,Image;StillImage,image/jpg,image,/objects/b-15.jpg,/objects/small/b-15_sm.jpg,/objects/thumbs/b-15_th.jpg
+dollarware_37,B-16,Site B_ Le Même Prix Plus,298.1,89.1,80.3,94.4,4.8,61.9,350.6,122,Image;StillImage,image/jpg,image,/objects/b-16.jpg,/objects/small/b-16_sm.jpg,/objects/thumbs/b-16_th.jpg
+dollarware_38,B-17,Site B_ Le Même Prix Plus,295.5,82.2,75,117,4.7,68.7,223.5,125,Image;StillImage,image/jpg,image,/objects/b-17.jpg,/objects/small/b-17_sm.jpg,/objects/thumbs/b-17_th.jpg
+dollarware_39,B-18,Site B_ Le Même Prix Plus,464.9,112.7,103.1,78.6,6.3,73.1,463.5,195,Image;StillImage,image/jpg,image,/objects/b-18.jpg,/objects/small/b-18_sm.jpg,/objects/thumbs/b-18_th.jpg
+dollarware_40,B-19,Site B_ Le Même Prix Plus,399.1,82.1,72.2,98.9,6,82.5,331.9,164,Image;StillImage,image/jpg,image,/objects/b-19.jpg,/objects/small/b-19_sm.jpg,/objects/thumbs/b-19_th.jpg
+dollarware_41,B-20,Site B_ Le Même Prix Plus,346.5,87.2,78.3,81.1,4.9,76,330.8,154,Image;StillImage,image/jpg,image,/objects/b-20.jpg,/objects/small/b-20_sm.jpg,/objects/thumbs/b-20_th.jpg
+dollarware_42,C-01,Site C_ Luxe du Dollar,261,85.7,81.7,124.1,2.2,56,320.9,112,Image;StillImage,image/jpg,image,/objects/c-01.jpg,/objects/small/c-01_sm.jpg,/objects/thumbs/c-01_th.jpg
+dollarware_43,C-02,Site C_ Luxe du Dollar,154.9,81.5,76,72.7,2.3,45.7,203.5,71,Image;StillImage,image/jpg,image,/objects/c-02.jpg,/objects/small/c-02_sm.jpg,/objects/thumbs/c-02_th.jpg
+dollarware_44,C-03,Site C_ Luxe du Dollar,306.8,79.3,71.7,102,3,74.4,317.6,133,Image;StillImage,image/jpg,image,/objects/c-03.jpg,/objects/small/c-03_sm.jpg,/objects/thumbs/c-03_th.jpg
+dollarware_45,C-04,Site C_ Luxe du Dollar,274.9,91.4,81,75.5,4,52,273.8,118,Image;StillImage,image/jpg,image,/objects/c-04.jpg,/objects/small/c-04_sm.jpg,/objects/thumbs/c-04_th.jpg
+dollarware_46,C-05,Site C_ Luxe du Dollar,305.7,74.4,64.5,91.1,4,71.2,249.6,129,Image;StillImage,image/jpg,image,/objects/c-05.jpg,/objects/small/c-05_sm.jpg,/objects/thumbs/c-05_th.jpg
+dollarware_47,C-06,Site C_ Luxe du Dollar,384.3,91.1,79.3,103,4.4,64.4,329.9,169,Image;StillImage,image/jpg,image,/objects/c-06.jpg,/objects/small/c-06_sm.jpg,/objects/thumbs/c-06_th.jpg
+dollarware_48,C-07,Site C_ Luxe du Dollar,231.5,87.5,83.2,124.4,2.1,59.3,387,93,Image;StillImage,image/jpg,image,/objects/c-07.jpg,/objects/small/c-07_sm.jpg,/objects/thumbs/c-07_th.jpg
+dollarware_49,C-08,Site C_ Luxe du Dollar,266.3,88.1,77.6,121,2.7,56,307.1,114,Image;StillImage,image/jpg,image,/objects/c-08.jpg,/objects/small/c-08_sm.jpg,/objects/thumbs/c-08_th.jpg
+dollarware_50,C-09,Site C_ Luxe du Dollar,238.7,76,67.1,84.4,3.8,63.7,238.2,117,Image;StillImage,image/jpg,image,/objects/c-09.jpg,/objects/small/c-09_sm.jpg,/objects/thumbs/c-09_th.jpg
+dollarware_51,C-10,Site C_ Luxe du Dollar,254.1,76.5,67.2,103.3,2.3,71.4,297.8,108,Image;StillImage,image/jpg,image,/objects/c-10.jpg,/objects/small/c-10_sm.jpg,/objects/thumbs/c-10_th.jpg
+dollarware_52,C-11,Site C_ Luxe du Dollar,255.7,74.5,68,103.2,3.1,71.1,302.6,113,Image;StillImage,image/jpg,image,/objects/c-11.jpg,/objects/small/c-11_sm.jpg,/objects/thumbs/c-11_th.jpg
+dollarware_53,C-12,Site C_ Luxe du Dollar,264.8,78.9,71.8,100.1,3.3,70,336.6,115,Image;StillImage,image/jpg,image,/objects/c-12.jpg,/objects/small/c-12_sm.jpg,/objects/thumbs/c-12_th.jpg
+dollarware_54,C-13,Site C_ Luxe du Dollar,115,72.5,63.4,45.3,4.6,46,97.8,50,Image;StillImage,image/jpg,image,/objects/c-13.jpg,/objects/small/c-13_sm.jpg,/objects/thumbs/c-13_th.jpg
+dollarware_55,C-14,Site C_ Luxe du Dollar,279.8,83.3,77,99.1,4.1,79.1,332.2,120,Image;StillImage,image/jpg,image,/objects/c-14.jpg,/objects/small/c-14_sm.jpg,/objects/thumbs/c-14_th.jpg
+dollarware_56,C-15,Site C_ Luxe du Dollar,307.5,90.1,81.6,100,4.1,60.9,328,130,Image;StillImage,image/jpg,image,/objects/c-15.jpg,/objects/small/c-15_sm.jpg,/objects/thumbs/c-15_th.jpg
+dollarware_57,C-16,Site C_ Luxe du Dollar,106.6,53.5,44.9,55,4,44.2,89.6,54,Image;StillImage,image/jpg,image,/objects/c-16.jpg,/objects/small/c-16_sm.jpg,/objects/thumbs/c-16_th.jpg
+dollarware_58,C-17,Site C_ Luxe du Dollar,313.6,82.5,74.3,111.9,4.5,71.7,237.7,144,Image;StillImage,image/jpg,image,/objects/c-17.jpg,/objects/small/c-17_sm.jpg,/objects/thumbs/c-17_th.jpg
+dollarware_59,C-18,Site C_ Luxe du Dollar,319.1,85.3,77.3,111.2,4.1,67.3,278.1,145,Image;StillImage,image/jpg,image,/objects/c-18.jpg,/objects/small/c-18_sm.jpg,/objects/thumbs/c-18_th.jpg
+dollarware_60,C-19,Site C_ Luxe du Dollar,194.6,79.2,74.5,109.2,2.3,58,265.6,88,Image;StillImage,image/jpg,image,/objects/c-19.jpg,/objects/small/c-19_sm.jpg,/objects/thumbs/c-19_th.jpg
+dollarware_61,C-20,Site C_ Luxe du Dollar,259,85.6,79.6,101.4,2.8,59,303.2,107,Image;StillImage,image/jpg,image,/objects/c-20.jpg,/objects/small/c-20_sm.jpg,/objects/thumbs/c-20_th.jpg
+dollarware_62,D-01,Site D_ Destination Dollar,374.4,82.6,70.4,98.4,6.2,80.5,347.6,186,Image;StillImage,image/jpg,image,/objects/d-01.jpg,/objects/small/d-01_sm.jpg,/objects/thumbs/d-01_th.jpg
+dollarware_63,D-02,Site D_ Destination Dollar,338.5,83.9,71.8,91.4,6.9,79,345.9,137,Image;StillImage,image/jpg,image,/objects/d-02.jpg,/objects/small/d-02_sm.jpg,/objects/thumbs/d-02_th.jpg
+dollarware_64,D-03,Site D_ Destination Dollar,438.8,88.5,80.4,138.6,3.9,66.6,399.2,199,Image;StillImage,image/jpg,image,/objects/d-03.jpg,/objects/small/d-03_sm.jpg,/objects/thumbs/d-03_th.jpg
+dollarware_65,D-04,Site D_ Destination Dollar,343.7,81.3,71.5,96.5,6.6,81.5,348.1,149,Image;StillImage,image/jpg,image,/objects/d-04.jpg,/objects/small/d-04_sm.jpg,/objects/thumbs/d-04_th.jpg
+dollarware_66,D-05,Site D_ Destination Dollar,251.4,84.7,78.3,104.8,3.5,56.8,277.2,143,Image;StillImage,image/jpg,image,/objects/d-05.jpg,/objects/small/d-05_sm.jpg,/objects/thumbs/d-05_th.jpg
+dollarware_67,D-06,Site D_ Destination Dollar,364.1,82,71.6,98.1,6.7,80.7,348.3,155,Image;StillImage,image/jpg,image,/objects/d-06.jpg,/objects/small/d-06_sm.jpg,/objects/thumbs/d-06_th.jpg
+dollarware_68,D-07,Site D_ Destination Dollar,325.4,88.3,77.2,111.2,5.1,68.1,400,200,Image;StillImage,image/jpg,image,/objects/d-07.jpg,/objects/small/d-07_sm.jpg,/objects/thumbs/d-07_th.jpg
+dollarware_69,D-08,Site D_ Destination Dollar,266.4,88.1,77.8,102,5.6,61.2,355.3,112,Image;StillImage,image/jpg,image,/objects/d-08.jpg,/objects/small/d-08_sm.jpg,/objects/thumbs/d-08_th.jpg
+dollarware_70,D-09,Site D_ Destination Dollar,365.8,81.9,75,97.8,3.4,79.5,330.8,171,Image;StillImage,image/jpg,image,/objects/d-09.jpg,/objects/small/d-09_sm.jpg,/objects/thumbs/d-09_th.jpg
+dollarware_71,D-10,Site D_ Destination Dollar,400.9,81.4,71.9,94.4,6.3,79,322.9,178,Image;StillImage,image/jpg,image,/objects/d-10.jpg,/objects/small/d-10_sm.jpg,/objects/thumbs/d-10_th.jpg
+dollarware_72,D-11,Site D_ Destination Dollar,145.6,103.2,96.2,51.7,2.7,38.5,215.4,77,Image;StillImage,image/jpg,image,/objects/d-11.jpg,/objects/small/d-11_sm.jpg,/objects/thumbs/d-11_th.jpg
+dollarware_73,D-12,Site D_ Destination Dollar,362.2,82.3,70.9,97.4,6.9,80.5,337,172,Image;StillImage,image/jpg,image,/objects/d-12.jpg,/objects/small/d-12_sm.jpg,/objects/thumbs/d-12_th.jpg
+dollarware_74,D-13,Site D_ Destination Dollar,327.6,76.3,65.6,109.1,6.6,69.9,316.6,140,Image;StillImage,image/jpg,image,/objects/d-13.jpg,/objects/small/d-13_sm.jpg,/objects/thumbs/d-13_th.jpg
+dollarware_75,D-14,Site D_ Destination Dollar,329.3,81,70,96.8,5.5,79,351,139,Image;StillImage,image/jpg,image,/objects/d-14.jpg,/objects/small/d-14_sm.jpg,/objects/thumbs/d-14_th.jpg
+dollarware_76,D-15,Site D_ Destination Dollar,357.1,115,108.5,74.5,3.2,60.5,326.9,153,Image;StillImage,image/jpg,image,/objects/d-15.jpg,/objects/small/d-15_sm.jpg,/objects/thumbs/d-15_th.jpg
+dollarware_77,D-16,Site D_ Destination Dollar,311.4,115.2,105.9,96.6,2.5,58.9,334.6,135,Image;StillImage,image/jpg,image,/objects/d-16.jpg,/objects/small/d-16_sm.jpg,/objects/thumbs/d-16_th.jpg
+dollarware_78,D-17,Site D_ Destination Dollar,321.3,80,69.3,128.3,5.6,61.2,398.5,136,Image;StillImage,image/jpg,image,/objects/d-17.jpg,/objects/small/d-17_sm.jpg,/objects/thumbs/d-17_th.jpg
+dollarware_79,D-18,Site D_ Destination Dollar,322.6,79.1,68.6,96.5,5.3,52.3,331.2,133,Image;StillImage,image/jpg,image,/objects/d-18.jpg,/objects/small/d-18_sm.jpg,/objects/thumbs/d-18_th.jpg
+dollarware_80,D-19,Site D_ Destination Dollar,368.7,80.2,71.8,131.3,3.6,53.2,390.7,162,Image;StillImage,image/jpg,image,/objects/d-19.jpg,/objects/small/d-19_sm.jpg,/objects/thumbs/d-19_th.jpg
+dollarware_81,D-20,Site D_ Destination Dollar,291.5,84.8,72.3,73.6,6.1,60.6,177.8,114,Image;StillImage,image/jpg,image,/objects/d-20.jpg,/objects/small/d-20_sm.jpg,/objects/thumbs/d-20_th.jpg
+dollarware_82,E-01,Site E_ Dollar Queen Mary,412,88.1,78.2,106.5,5.6,82.1,436.8,180,Image;StillImage,image/jpg,image,/objects/e-01.jpg,/objects/small/e-01_sm.jpg,/objects/thumbs/e-01_th.jpg
+dollarware_83,E-02,Site E_ Dollar Queen Mary,560.7,88.9,78.4,148,5,62.2,450.4,246,Image;StillImage,image/jpg,image,/objects/e-02.jpg,/objects/small/e-02_sm.jpg,/objects/thumbs/e-02_th.jpg
+dollarware_84,E-03,Site E_ Dollar Queen Mary,356.9,81.9,72.1,97.5,6.1,81.4,345.8,163,Image;StillImage,image/jpg,image,/objects/e-03.jpg,/objects/small/e-03_sm.jpg,/objects/thumbs/e-03_th.jpg
+dollarware_85,E-04,Site E_ Dollar Queen Mary,301.6,86.4,80.9,114.6,3.2,69.7,386.1,137,Image;StillImage,image/jpg,image,/objects/e-04.jpg,/objects/small/e-04_sm.jpg,/objects/thumbs/e-04_th.jpg
+dollarware_86,E-05,Site E_ Dollar Queen Mary,339.9,86,79,146.8,3.4,59.8,419,221,Image;StillImage,image/jpg,image,/objects/e-05.jpg,/objects/small/e-05_sm.jpg,/objects/thumbs/e-05_th.jpg
+dollarware_87,E-06,Site E_ Dollar Queen Mary,366.9,80.7,71.2,96.2,5,79.8,311.5,165,Image;StillImage,image/jpg,image,/objects/e-06.jpg,/objects/small/e-06_sm.jpg,/objects/thumbs/e-06_th.jpg
+dollarware_88,E-07,Site E_ Dollar Queen Mary,347.9,82.4,73.9,96.6,3.6,81.8,337.9,148,Image;StillImage,image/jpg,image,/objects/e-07.jpg,/objects/small/e-07_sm.jpg,/objects/thumbs/e-07_th.jpg
+dollarware_89,E-08,Site E_ Dollar Queen Mary,522.1,89.1,80.2,149.7,4.2,61.5,467.3,229,Image;StillImage,image/jpg,image,/objects/e-08.jpg,/objects/small/e-08_sm.jpg,/objects/thumbs/e-08_th.jpg
+dollarware_90,E-09,Site E_ Dollar Queen Mary,356,81,72.7,97.3,4,79.5,322.2,162,Image;StillImage,image/jpg,image,/objects/e-09.jpg,/objects/small/e-09_sm.jpg,/objects/thumbs/e-09_th.jpg
+dollarware_91,E-10,Site E_ Dollar Queen Mary,343.7,88,81.6,116.1,3.3,66,385.6,117,Image;StillImage,image/jpg,image,/objects/e-10.jpg,/objects/small/e-10_sm.jpg,/objects/thumbs/e-10_th.jpg
+dollarware_92,E-11,Site E_ Dollar Queen Mary,341.5,82.8,75.5,100.7,3.4,79.7,340.7,148,Image;StillImage,image/jpg,image,/objects/e-11.jpg,/objects/small/e-11_sm.jpg,/objects/thumbs/e-11_th.jpg
+dollarware_93,E-12,Site E_ Dollar Queen Mary,365.1,93.8,87.7,102,3.4,66,362.6,139,Image;StillImage,image/jpg,image,/objects/e-12.jpg,/objects/small/e-12_sm.jpg,/objects/thumbs/e-12_th.jpg
+dollarware_94,E-13,Site E_ Dollar Queen Mary,561.7,88,75,150.8,4.9,63,446.8,231,Image;StillImage,image/jpg,image,/objects/e-13.jpg,/objects/small/e-13_sm.jpg,/objects/thumbs/e-13_th.jpg
+dollarware_95,E-14,Site E_ Dollar Queen Mary,357.4,81.6,68.4,97.5,6.1,79.4,322.9,161,Image;StillImage,image/jpg,image,/objects/e-14.jpg,/objects/small/e-14_sm.jpg,/objects/thumbs/e-14_th.jpg
+dollarware_96,E-15,Site E_ Dollar Queen Mary,354,81.1,68.8,97,6.5,80.5,326.6,115,Image;StillImage,image/jpg,image,/objects/e-15.jpg,/objects/small/e-15_sm.jpg,/objects/thumbs/e-15_th.jpg
+dollarware_97,E-16,Site E_ Dollar Queen Mary,265.1,77.2,68.3,83.8,5.5,77.2,263.7,139,Image;StillImage,image/jpg,image,/objects/e-16.jpg,/objects/small/e-16_sm.jpg,/objects/thumbs/e-16_th.jpg
+dollarware_98,E-17,Site E_ Dollar Queen Mary,326.1,86.6,74.4,116.6,5.5,67.2,398.7,154,Image;StillImage,image/jpg,image,/objects/e-17.jpg,/objects/small/e-17_sm.jpg,/objects/thumbs/e-17_th.jpg
+dollarware_99,E-18,Site E_ Dollar Queen Mary,358.9,82.2,71.1,96.1,4.5,81,335.6,147,Image;StillImage,image/jpg,image,/objects/e-18.jpg,/objects/small/e-18_sm.jpg,/objects/thumbs/e-18_th.jpg
+dollarware_100,E-19,Site E_ Dollar Queen Mary,256.3,73,67.7,99.4,3.1,68,263.7,111,Image;StillImage,image/jpg,image,/objects/e-19.jpg,/objects/small/e-19_sm.jpg,/objects/thumbs/e-19_th.jpg
+dollarware_101,E-20,Site E_ Dollar Queen Mary,576.3,90,82.8,153.1,3.6,62.6,485,260,Image;StillImage,image/jpg,image,/objects/e-20.jpg,/objects/small/e-20_sm.jpg,/objects/thumbs/e-20_th.jpg
+dollarware_102,F-01,Site F_ Dollarama,231.9,78.5,67.1,94,5.2,60,283.2,160,Image;StillImage,image/jpg,image,/objects/f-01.jpg,/objects/small/f-01_sm.jpg,/objects/thumbs/f-01_th.jpg
+dollarware_103,F-02,Site F_ Dollarama,168.4,60,51.8,62.9,3,59.4,115.7,69,Image;StillImage,image/jpg,image,/objects/f-02.jpg,/objects/small/f-02_sm.jpg,/objects/thumbs/f-02_th.jpg
+dollarware_104,F-03,Site F_ Dollarama,341.4,85,77.3,125.7,3.3,60.5,336.1,151,Image;StillImage,image/jpg,image,/objects/f-03.jpg,/objects/small/f-03_sm.jpg,/objects/thumbs/f-03_th.jpg
+dollarware_105,F-04,Site F_ Dollarama,327.8,87.2,79.3,108.2,3.5,53.3,379.4,140,Image;StillImage,image/jpg,image,/objects/f-04.jpg,/objects/small/f-04_sm.jpg,/objects/thumbs/f-04_th.jpg
+dollarware_106,F-05,Site F_ Dollarama,362.3,94,83.3,105.4,3.8,60.4,385.9,155,Image;StillImage,image/jpg,image,/objects/f-05.jpg,/objects/small/f-05_sm.jpg,/objects/thumbs/f-05_th.jpg
+dollarware_107,F-06,Site F_ Dollarama,230.1,85,77.2,93.2,3.1,57.3,286.9,105,Image;StillImage,image/jpg,image,/objects/f-06.jpg,/objects/small/f-06_sm.jpg,/objects/thumbs/f-06_th.jpg
+dollarware_108,F-07,Site F_ Dollarama,403.5,101.5,87.3,99.1,6.4,61.7,394,198,Image;StillImage,image/jpg,image,/objects/f-07.jpg,/objects/small/f-07_sm.jpg,/objects/thumbs/f-07_th.jpg
+dollarware_109,F-08,Site F_ Dollarama,376.7,95.4,86,106.2,4.2,57.6,382.8,172,Image;StillImage,image/jpg,image,/objects/f-08.jpg,/objects/small/f-08_sm.jpg,/objects/thumbs/f-08_th.jpg
+dollarware_110,F-09,Site F_ Dollarama,340.1,87.3,79.2,106.5,3.8,59.5,353.5,155,Image;StillImage,image/jpg,image,/objects/f-09.jpg,/objects/small/f-09_sm.jpg,/objects/thumbs/f-09_th.jpg
+dollarware_111,F-10,Site F_ Dollarama,451.7,104.7,88.6,106,7.9,61.5,466.8,214,Image;StillImage,image/jpg,image,/objects/f-10.jpg,/objects/small/f-10_sm.jpg,/objects/thumbs/f-10_th.jpg
+dollarware_112,F-11,Site F_ Dollarama,219.4,108.1,100.2,63,5.3,64.8,371.3,144,Image;StillImage,image/jpg,image,/objects/f-11.jpg,/objects/small/f-11_sm.jpg,/objects/thumbs/f-11_th.jpg
+dollarware_113,F-12,Site F_ Dollarama,211.3,73,64.7,109.6,2,69.8,339.2,86,Image;StillImage,image/jpg,image,/objects/f-12.jpg,/objects/small/f-12_sm.jpg,/objects/thumbs/f-12_th.jpg
+dollarware_114,F-13,Site F_ Dollarama,344.1,91.1,80.3,110.7,3.5,56.5,385.3,138,Image;StillImage,image/jpg,image,/objects/f-13.jpg,/objects/small/f-13_sm.jpg,/objects/thumbs/f-13_th.jpg
+dollarware_115,F-14,Site F_ Dollarama,416.7,91.6,78.5,108,4.7,57.5,385.4,183,Image;StillImage,image/jpg,image,/objects/f-14.jpg,/objects/small/f-14_sm.jpg,/objects/thumbs/f-14_th.jpg
+dollarware_116,F-15,Site F_ Dollarama,371.6,109,100,74.8,4,69.8,400.7,171,Image;StillImage,image/jpg,image,/objects/f-15.jpg,/objects/small/f-15_sm.jpg,/objects/thumbs/f-15_th.jpg
+dollarware_117,F-16,Site F_ Dollarama,447,80.6,71.5,105.5,4.1,80.5,417,192,Image;StillImage,image/jpg,image,/objects/f-16.jpg,/objects/small/f-16_sm.jpg,/objects/thumbs/f-16_th.jpg
+dollarware_118,F-17,Site F_ Dollarama,358.6,82,72.4,96.1,4.7,80.2,349.4,174,Image;StillImage,image/jpg,image,/objects/f-17.jpg,/objects/small/f-17_sm.jpg,/objects/thumbs/f-17_th.jpg
+dollarware_119,F-18,Site F_ Dollarama,323.7,80.8,70.8,94.5,4.6,57.6,254.7,150,Image;StillImage,image/jpg,image,/objects/f-18.jpg,/objects/small/f-18_sm.jpg,/objects/thumbs/f-18_th.jpg
+dollarware_120,F-19,Site F_ Dollarama,306.8,85,74.1,106.3,4.5,58.8,362.8,154,Image;StillImage,image/jpg,image,/objects/f-19.jpg,/objects/small/f-19_sm.jpg,/objects/thumbs/f-19_th.jpg
+dollarware_121,F-20,Site F_ Dollarama,312,79.1,70.5,94.4,4.1,78,325.3,149,Image;StillImage,image/jpg,image,/objects/f-20.jpg,/objects/small/f-20_sm.jpg,/objects/thumbs/f-20_th.jpg
+dollarware_122,F-21,Site F_ Dollarama,215.7,75.6,65.9,108.6,2.5,68,331.8,87,Image;StillImage,image/jpg,image,/objects/f-21.jpg,/objects/small/f-21_sm.jpg,/objects/thumbs/f-21_th.jpg
+dollarware_123,G-01,Site G_ Mini Marché Beaverhall,294.4,84.3,73.7,103.5,5.5,53.8,321.8,128,Image;StillImage,image/jpg,image,/objects/g-01.jpg,/objects/small/g-01_sm.jpg,/objects/thumbs/g-01_th.jpg
+dollarware_124,G-02,Site G_ Mini Marché Beaverhall,307.8,83.6,77.6,104.1,3.6,51.1,324.5,133,Image;StillImage,image/jpg,image,/objects/g-02.jpg,/objects/small/g-02_sm.jpg,/objects/thumbs/g-02_th.jpg
+dollarware_125,G-03,Site G_ Mini Marché Beaverhall,321.3,86.3,78.7,105.9,3.4,53.6,334.7,129,Image;StillImage,image/jpg,image,/objects/g-03.jpg,/objects/small/g-03_sm.jpg,/objects/thumbs/g-03_th.jpg
+dollarware_126,G-04,Site G_ Mini Marché Beaverhall,288,71.1,65.2,99.6,3.4,69.1,292.8,124,Image;StillImage,image/jpg,image,/objects/g-04.jpg,/objects/small/g-04_sm.jpg,/objects/thumbs/g-04_th.jpg
+dollarware_127,H-01,Site H_ Saaed Dollar Plus,326.6,83.3,71.3,96.4,6.5,82.2,351.9,154,Image;StillImage,image/jpg,image,/objects/h-01.jpg,/objects/small/h-01_sm.jpg,/objects/thumbs/h-01_th.jpg
+dollarware_128,H-02,Site H_ Saaed Dollar Plus,329.9,83.2,71.2,95.5,6.5,82.1,345.6,156,Image;StillImage,image/jpg,image,/objects/h-02.jpg,/objects/small/h-02_sm.jpg,/objects/thumbs/h-02_th.jpg
+dollarware_129,H-03,Site H_ Saaed Dollar Plus,295.5,80.7,67,92.3,6,78,305.8,125,Image;StillImage,image/jpg,image,/objects/h-03.jpg,/objects/small/h-03_sm.jpg,/objects/thumbs/h-03_th.jpg
+dollarware_130,H-04,Site H_ Saaed Dollar Plus,301.8,80.1,69,91.2,6,79.5,303.1,136,Image;StillImage,image/jpg,image,/objects/h-04.jpg,/objects/small/h-04_sm.jpg,/objects/thumbs/h-04_th.jpg
+dollarware_131,H-05,Site H_ Saaed Dollar Plus,304.5,81.5,70,91.8,6.1,80.2,313.2,135,Image;StillImage,image/jpg,image,/objects/h-05.jpg,/objects/small/h-05_sm.jpg,/objects/thumbs/h-05_th.jpg
+dollarware_132,H-06,Site H_ Saaed Dollar Plus,322.7,82.3,70.7,94.4,6.3,81.4,341.1,150,Image;StillImage,image/jpg,image,/objects/h-06.jpg,/objects/small/h-06_sm.jpg,/objects/thumbs/h-06_th.jpg
+dollarware_133,I-01,Site I_ Meilleur Prix,371.8,81.1,68.3,96.6,3.1,80,327.6,154,Image;StillImage,image/jpg,image,/objects/i-01.jpg,/objects/small/i-01_sm.jpg,/objects/thumbs/i-01_th.jpg
+dollarware_134,I-02,Site I_ Meilleur Prix,338.5,81.1,70.1,96.1,3.2,80.3,333.2,132,Image;StillImage,image/jpg,image,/objects/i-02.jpg,/objects/small/i-02_sm.jpg,/objects/thumbs/i-02_th.jpg
+dollarware_135,I-03,Site I_ Meilleur Prix,269.7,76.6,70.2,103.8,3.2,70.7,294.9,117,Image;StillImage,image/jpg,image,/objects/i-03.jpg,/objects/small/i-03_sm.jpg,/objects/thumbs/i-03_th.jpg
+dollarware_136,I-04,Site I_ Meilleur Prix,111.5,61.3,48.4,49.3,4,35.7,70.9,49,Image;StillImage,image/jpg,image,/objects/i-04.jpg,/objects/small/i-04_sm.jpg,/objects/thumbs/i-04_th.jpg
+dollarware_137,I-05,Site I_ Meilleur Prix,456.6,106.5,95.1,82.1,4.4,52.8,462.6,189,Image;StillImage,image/jpg,image,/objects/i-05.jpg,/objects/small/i-05_sm.jpg,/objects/thumbs/i-05_th.jpg
+dollarware_138,I-06,Site I_ Meilleur Prix,361.9,80.1,68.6,96.7,3.2,79.9,332.9,142,Image;StillImage,image/jpg,image,/objects/i-06.jpg,/objects/small/i-06_sm.jpg,/objects/thumbs/i-06_th.jpg
+dollarware_139,I-07,Site I_ Meilleur Prix,373.8,80.7,71,95.3,4.5,80.1,327.7,167,Image;StillImage,image/jpg,image,/objects/i-07.jpg,/objects/small/i-07_sm.jpg,/objects/thumbs/i-07_th.jpg
+dollarware_140,I-08,Site I_ Meilleur Prix,321.2,89.9,76.8,95.1,3.7,60.4,351.7,143,Image;StillImage,image/jpg,image,/objects/i-08.jpg,/objects/small/i-08_sm.jpg,/objects/thumbs/i-08_th.jpg
+dollarware_141,I-09,Site I_ Meilleur Prix,266.3,83.2,73.1,106.4,2.8,58.8,382.7,164,Image;StillImage,image/jpg,image,/objects/i-09.jpg,/objects/small/i-09_sm.jpg,/objects/thumbs/i-09_th.jpg
+dollarware_142,I-10,Site I_ Meilleur Prix,274.2,75.5,65.6,103.5,2.5,70.1,295.3,128,Image;StillImage,image/jpg,image,/objects/i-10.jpg,/objects/small/i-10_sm.jpg,/objects/thumbs/i-10_th.jpg
+dollarware_143,I-11,Site I_ Meilleur Prix,266.6,76.3,69.1,104.1,2.4,70.8,301.9,118,Image;StillImage,image/jpg,image,/objects/i-11.jpg,/objects/small/i-11_sm.jpg,/objects/thumbs/i-11_th.jpg
+dollarware_144,I-12,Site I_ Meilleur Prix,516.5,108.6,96.9,85,5.6,102.9,482.6,243,Image;StillImage,image/jpg,image,/objects/i-12.jpg,/objects/small/i-12_sm.jpg,/objects/thumbs/i-12_th.jpg
+dollarware_145,I-13,Site I_ Meilleur Prix,369.6,80.7,71.3,94.9,3.1,79.8,325.6,163,Image;StillImage,image/jpg,image,/objects/i-13.jpg,/objects/small/i-13_sm.jpg,/objects/thumbs/i-13_th.jpg
+dollarware_146,I-14,Site I_ Meilleur Prix,368.6,86.7,76.4,101.5,3.3,83.3,420.9,158,Image;StillImage,image/jpg,image,/objects/i-14.jpg,/objects/small/i-14_sm.jpg,/objects/thumbs/i-14_th.jpg
+dollarware_147,I-15,Site I_ Meilleur Prix,380.1,82.6,70.8,96.7,3.4,80.6,332.5,192,Image;StillImage,image/jpg,image,/objects/i-15.jpg,/objects/small/i-15_sm.jpg,/objects/thumbs/i-15_th.jpg
+dollarware_148,I-16,Site I_ Meilleur Prix,319,91.2,86,106.7,2.8,56.9,357.3,139,Image;StillImage,image/jpg,image,/objects/i-16.jpg,/objects/small/i-16_sm.jpg,/objects/thumbs/i-16_th.jpg
+dollarware_149,I-17,Site I_ Meilleur Prix,210.8,87.2,81.3,101.1,3.3,53.8,304.8,95,Image;StillImage,image/jpg,image,/objects/i-17.jpg,/objects/small/i-17_sm.jpg,/objects/thumbs/i-17_th.jpg
+dollarware_150,I-18,Site I_ Meilleur Prix,362.3,81,69.6,96.6,3.4,79.3,336.6,159,Image;StillImage,image/jpg,image,/objects/i-18.jpg,/objects/small/i-18_sm.jpg,/objects/thumbs/i-18_th.jpg
+dollarware_151,I-19,Site I_ Meilleur Prix,356.7,81.4,70.9,95.5,4,80.4,325.5,160,Image;StillImage,image/jpg,image,/objects/i-19.jpg,/objects/small/i-19_sm.jpg,/objects/thumbs/i-19_th.jpg
+dollarware_152,I-20,Site I_ Meilleur Prix,338.3,79.1,69.1,93.1,3.7,72.1,307.7,156,Image;StillImage,image/jpg,image,/objects/i-20.jpg,/objects/small/i-20_sm.jpg,/objects/thumbs/i-20_th.jpg
+dollarware_153,J-01,Site J_ Maison Dollar,370.9,94.8,86.3,102,2.7,62.7,364.2,159,Image;StillImage,image/jpg,image,/objects/j-01.jpg,/objects/small/j-01_sm.jpg,/objects/thumbs/j-01_th.jpg
+dollarware_154,J-02,Site J_ Maison Dollar,237.5,72,65,96.4,2.8,63.1,252.8,112,Image;StillImage,image/jpg,image,/objects/j-02.jpg,/objects/small/j-02_sm.jpg,/objects/thumbs/j-02_th.jpg
+dollarware_155,J-03,Site J_ Maison Dollar,338.4,78.5,71.1,92,4.8,79,315.8,153,Image;StillImage,image/jpg,image,/objects/j-03.jpg,/objects/small/j-03_sm.jpg,/objects/thumbs/j-03_th.jpg
+dollarware_156,J-04,Site J_ Maison Dollar,235.4,72.4,65.8,97.2,2.9,65.8,239.5,107,Image;StillImage,image/jpg,image,/objects/j-04.jpg,/objects/small/j-04_sm.jpg,/objects/thumbs/j-04_th.jpg
+dollarware_157,J-05,Site J_ Maison Dollar,285.2,98.2,89.5,72.7,4.5,58.1,329.5,136,Image;StillImage,image/jpg,image,/objects/j-05.jpg,/objects/small/j-05_sm.jpg,/objects/thumbs/j-05_th.jpg
+dollarware_158,J-06,Site J_ Maison Dollar,362.8,82.8,74.8,97.1,4.7,81.9,340.1,168,Image;StillImage,image/jpg,image,/objects/j-06.jpg,/objects/small/j-06_sm.jpg,/objects/thumbs/j-06_th.jpg
+dollarware_159,J-07,Site J_ Maison Dollar,366.3,81.1,74,95.5,4,80.1,341,163,Image;StillImage,image/jpg,image,/objects/j-07.jpg,/objects/small/j-07_sm.jpg,/objects/thumbs/j-07_th.jpg
+dollarware_160,J-08,Site J_ Maison Dollar,204.8,83,75.2,88.3,4.3,54.8,183.5,106,Image;StillImage,image/jpg,image,/objects/j-08.jpg,/objects/small/j-08_sm.jpg,/objects/thumbs/j-08_th.jpg
+dollarware_161,J-09,Site J_ Maison Dollar,208.1,78.2,71.3,88.2,3.8,50.2,228.2,93,Image;StillImage,image/jpg,image,/objects/j-09.jpg,/objects/small/j-09_sm.jpg,/objects/thumbs/j-09_th.jpg
+dollarware_162,J-10,Site J_ Maison Dollar,133.6,75.2,66,57.5,4.4,45.1,146.3,70,Image;StillImage,image/jpg,image,/objects/j-10.jpg,/objects/small/j-10_sm.jpg,/objects/thumbs/j-10_th.jpg
+dollarware_163,J-11,Site J_ Maison Dollar,210.9,69.1,61,112.5,4.3,53.4,260.2,129,Image;StillImage,image/jpg,image,/objects/j-11.jpg,/objects/small/j-11_sm.jpg,/objects/thumbs/j-11_th.jpg
+dollarware_164,J-12,Site J_ Maison Dollar,268.1,84.1,76.3,93.7,3.6,57.7,256.3,116,Image;StillImage,image/jpg,image,/objects/j-12.jpg,/objects/small/j-12_sm.jpg,/objects/thumbs/j-12_th.jpg
+dollarware_165,J-13,Site J_ Maison Dollar,346,80.4,70.9,94.6,4.6,80.5,314.6,125,Image;StillImage,image/jpg,image,/objects/j-13.jpg,/objects/small/j-13_sm.jpg,/objects/thumbs/j-13_th.jpg
+dollarware_166,J-14,Site J_ Maison Dollar,380.4,96.2,87.5,109.8,5,66.8,414.3,178,Image;StillImage,image/jpg,image,/objects/j-14.jpg,/objects/small/j-14_sm.jpg,/objects/thumbs/j-14_th.jpg
+dollarware_167,J-15,Site J_ Maison Dollar,254.3,95.3,86.5,57.1,4.8,63.9,233.7,119,Image;StillImage,image/jpg,image,/objects/j-15.jpg,/objects/small/j-15_sm.jpg,/objects/thumbs/j-15_th.jpg
+dollarware_168,J-16,Site J_ Maison Dollar,139,84.5,78.1,60.4,3,54.1,196.5,63,Image;StillImage,image/jpg,image,/objects/j-16.jpg,/objects/small/j-16_sm.jpg,/objects/thumbs/j-16_th.jpg
+dollarware_169,J-17,Site J_ Maison Dollar,193,81.3,72.4,83.1,4.9,68.3,373.9,123,Image;StillImage,image/jpg,image,/objects/j-17.jpg,/objects/small/j-17_sm.jpg,/objects/thumbs/j-17_th.jpg
+dollarware_170,J-18,Site J_ Maison Dollar,329.6,86.7,79.1,85.7,3.7,85.2,327.1,144,Image;StillImage,image/jpg,image,/objects/j-18.jpg,/objects/small/j-18_sm.jpg,/objects/thumbs/j-18_th.jpg
+dollarware_171,J-19,Site J_ Maison Dollar,238.9,71.9,64.2,96.9,3.2,65.9,237.3,95,Image;StillImage,image/jpg,image,/objects/j-19.jpg,/objects/small/j-19_sm.jpg,/objects/thumbs/j-19_th.jpg
+dollarware_172,J-20,Site J_ Maison Dollar,219.5,80.3,71.2,88.5,4.3,53.5,216.1,108,Image;StillImage,image/jpg,image,/objects/j-20.jpg,/objects/small/j-20_sm.jpg,/objects/thumbs/j-20_th.jpg
+dollarware_173,K-01,Site K_ Mini Max,372.9,81.7,72.4,96.8,4.4,82.5,317.7,172,Image;StillImage,image/jpg,image,/objects/k-01.jpg,/objects/small/k-01_sm.jpg,/objects/thumbs/k-01_th.jpg
+dollarware_174,K-02,Site K_ Mini Max,367.2,81.3,69,97.7,6.1,81.6,332.4,167,Image;StillImage,image/jpg,image,/objects/k-02.jpg,/objects/small/k-02_sm.jpg,/objects/thumbs/k-02_th.jpg
+dollarware_175,K-03,Site K_ Mini Max,295.5,81.1,72.3,93.8,4.6,80.6,315.1,148,Image;StillImage,image/jpg,image,/objects/k-03.jpg,/objects/small/k-03_sm.jpg,/objects/thumbs/k-03_th.jpg
+dollarware_176,K-04,Site K_ Mini Max,382.9,81.9,72.7,96.3,6.2,81.7,319.6,172,Image;StillImage,image/jpg,image,/objects/k-04.jpg,/objects/small/k-04_sm.jpg,/objects/thumbs/k-04_th.jpg
+dollarware_177,K-05,Site K_ Mini Max,355,78.6,63.9,98.6,6.2,54.4,222.9,158,Image;StillImage,image/jpg,image,/objects/k-05.jpg,/objects/small/k-05_sm.jpg,/objects/thumbs/k-05_th.jpg
+dollarware_178,K-06,Site K_ Mini Max,375.9,81,69.4,104.2,4.1,76.7,304.2,165,Image;StillImage,image/jpg,image,/objects/k-06.jpg,/objects/small/k-06_sm.jpg,/objects/thumbs/k-06_th.jpg
+dollarware_179,K-07,Site K_ Mini Max,351.2,91.6,82.4,101.4,5.3,63.4,311.8,170,Image;StillImage,image/jpg,image,/objects/k-07.jpg,/objects/small/k-07_sm.jpg,/objects/thumbs/k-07_th.jpg
+dollarware_180,K-08,Site K_ Mini Max,345,79.8,72.3,103.9,3.4,76.3,299.8,156,Image;StillImage,image/jpg,image,/objects/k-08.jpg,/objects/small/k-08_sm.jpg,/objects/thumbs/k-08_th.jpg
+dollarware_181,K-09,Site K_ Mini Max,256.4,74.1,65,101.1,3.6,68.6,246.4,118,Image;StillImage,image/jpg,image,/objects/k-09.jpg,/objects/small/k-09_sm.jpg,/objects/thumbs/k-09_th.jpg
+dollarware_182,K-10,Site K_ Mini Max,309.2,87.2,79.6,80.9,4.4,71.9,280.5,144,Image;StillImage,image/jpg,image,/objects/k-10.jpg,/objects/small/k-10_sm.jpg,/objects/thumbs/k-10_th.jpg
+dollarware_183,K-11,Site K_ Mini Max,387.5,82.2,72,95.4,5.4,81,297.7,181,Image;StillImage,image/jpg,image,/objects/k-11.jpg,/objects/small/k-11_sm.jpg,/objects/thumbs/k-11_th.jpg
+dollarware_184,K-12,Site K_ Mini Max,347.8,81.3,71.4,103.9,4.5,48.4,257.3,150,Image;StillImage,image/jpg,image,/objects/k-12.jpg,/objects/small/k-12_sm.jpg,/objects/thumbs/k-12_th.jpg
+dollarware_185,K-13,Site K_ Mini Max,375.2,81.7,74.6,95.7,3.5,81,327.4,163,Image;StillImage,image/jpg,image,/objects/k-13.jpg,/objects/small/k-13_sm.jpg,/objects/thumbs/k-13_th.jpg
+dollarware_186,K-14,Site K_ Mini Max,342.6,81,76.1,103.7,2.6,76,317.3,133,Image;StillImage,image/jpg,image,/objects/k-14.jpg,/objects/small/k-14_sm.jpg,/objects/thumbs/k-14_th.jpg
+dollarware_187,K-15,Site K_ Mini Max,371.9,80.4,70.3,103.7,4.3,46.7,253.1,151,Image;StillImage,image/jpg,image,/objects/k-15.jpg,/objects/small/k-15_sm.jpg,/objects/thumbs/k-15_th.jpg
+dollarware_188,K-16,Site K_ Mini Max,323.2,84.2,78,115.9,2.8,57.4,335.5,160,Image;StillImage,image/jpg,image,/objects/k-16.jpg,/objects/small/k-16_sm.jpg,/objects/thumbs/k-16_th.jpg
+dollarware_189,K-17,Site K_ Mini Max,326.6,86.7,80.4,114.2,3.1,64.9,369.5,144,Image;StillImage,image/jpg,image,/objects/k-17.jpg,/objects/small/k-17_sm.jpg,/objects/thumbs/k-17_th.jpg
+dollarware_190,K-18,Site K_ Mini Max,124.2,62.3,53.2,50.2,5.3,34.9,70.9,60,Image;StillImage,image/jpg,image,/objects/k-18.jpg,/objects/small/k-18_sm.jpg,/objects/thumbs/k-18_th.jpg
+dollarware_191,K-19,Site K_ Mini Max,151.6,82.3,77.1,79.3,2.8,52.2,186.1,78,Image;StillImage,image/jpg,image,/objects/k-19.jpg,/objects/small/k-19_sm.jpg,/objects/thumbs/k-19_th.jpg
+dollarware_192,K-20,Site K_ Mini Max,365.7,114.9,110,77.7,3.9,56.7,423.9,164,Image;StillImage,image/jpg,image,/objects/k-20.jpg,/objects/small/k-20_sm.jpg,/objects/thumbs/k-20_th.jpg
+dollarware_193,L-01,Site L_Le Monde du Dollar,359.7,82,73.9,97.6,3.7,80.9,325.2,160,Image;StillImage,image/jpg,image,/objects/l-01.jpg,/objects/small/l-01_sm.jpg,/objects/thumbs/l-01_th.jpg
+dollarware_194,L-02,Site L_Le Monde du Dollar,335.3,80.5,72.8,97.6,3.8,78.7,320.3,134,Image;StillImage,image/jpg,image,/objects/l-02.jpg,/objects/small/l-02_sm.jpg,/objects/thumbs/l-02_th.jpg
+dollarware_195,L-03,Site L_Le Monde du Dollar,260.2,68.3,64,92.7,3,61.1,193.1,97,Image;StillImage,image/jpg,image,/objects/l-03.jpg,/objects/small/l-03_sm.jpg,/objects/thumbs/l-03_th.jpg
+dollarware_196,L-04,Site L_Le Monde du Dollar,259.4,69,64.3,91.7,3.2,62.1,193.5,104,Image;StillImage,image/jpg,image,/objects/l-04.jpg,/objects/small/l-04_sm.jpg,/objects/thumbs/l-04_th.jpg
+dollarware_197,L-05,Site L_Le Monde du Dollar,249.2,68.6,64.2,90.2,3.2,62.4,191.4,96,Image;StillImage,image/jpg,image,/objects/l-05.jpg,/objects/small/l-05_sm.jpg,/objects/thumbs/l-05_th.jpg
+dollarware_198,L-06,Site L_Le Monde du Dollar,402.6,84.4,75.3,89.1,3.8,82.2,306.4,172,Image;StillImage,image/jpg,image,/objects/l-06.jpg,/objects/small/l-06_sm.jpg,/objects/thumbs/l-06_th.jpg
+dollarware_199,L-07,Site L_Le Monde du Dollar,349.5,79.8,69.1,94.9,5.7,81,311.5,144,Image;StillImage,image/jpg,image,/objects/l-07.jpg,/objects/small/l-07_sm.jpg,/objects/thumbs/l-07_th.jpg
+dollarware_200,L-08,Site L_Le Monde du Dollar,348.2,86,78.5,85,3.4,84.6,316.9,145,Image;StillImage,image/jpg,image,/objects/l-08.jpg,/objects/small/l-08_sm.jpg,/objects/thumbs/l-08_th.jpg
+dollarware_201,L-09,Site L_Le Monde du Dollar,321,79,72.8,120.5,3.3,52.2,321.6,150,Image;StillImage,image/jpg,image,/objects/l-09.jpg,/objects/small/l-09_sm.jpg,/objects/thumbs/l-09_th.jpg
+dollarware_202,L-10,Site L_Le Monde du Dollar,365.1,84.5,74.3,102.3,4.7,57.8,321.4,153,Image;StillImage,image/jpg,image,/objects/l-10.jpg,/objects/small/l-10_sm.jpg,/objects/thumbs/l-10_th.jpg
+dollarware_203,L-11,Site L_Le Monde du Dollar,368,86.6,77.8,84.1,3.2,83.8,301.2,154,Image;StillImage,image/jpg,image,/objects/l-11.jpg,/objects/small/l-11_sm.jpg,/objects/thumbs/l-11_th.jpg
+dollarware_204,L-12,Site L_Le Monde du Dollar,243.5,72.8,66.8,99.1,3.8,68.4,260,109,Image;StillImage,image/jpg,image,/objects/l-12.jpg,/objects/small/l-12_sm.jpg,/objects/thumbs/l-12_th.jpg
+dollarware_205,L-13,Site L_Le Monde du Dollar,247,79.1,68.6,100.2,4.3,68.1,266.8,108,Image;StillImage,image/jpg,image,/objects/l-13.jpg,/objects/small/l-13_sm.jpg,/objects/thumbs/l-13_th.jpg
+dollarware_206,L-14,Site L_Le Monde du Dollar,286.8,74.2,68.5,100.9,2.9,72.9,294.5,115,Image;StillImage,image/jpg,image,/objects/l-14.jpg,/objects/small/l-14_sm.jpg,/objects/thumbs/l-14_th.jpg
+dollarware_207,L-15,Site L_Le Monde du Dollar,297.5,73.8,67.8,100.5,2.9,71.7,291.4,132,Image;StillImage,image/jpg,image,/objects/l-15.jpg,/objects/small/l-15_sm.jpg,/objects/thumbs/l-15_th.jpg
+dollarware_208,L-16,Site L_Le Monde du Dollar,273.8,73.5,67.6,100.4,2.8,72.7,292.9,121,Image;StillImage,image/jpg,image,/objects/l-16.jpg,/objects/small/l-16_sm.jpg,/objects/thumbs/l-16_th.jpg
+dollarware_209,M-01,Site M_Taty,272.4,83.5,76.8,108.4,4.2,55.9,281.1,126,Image;StillImage,image/jpg,image,/objects/m-01.jpg,/objects/small/m-01_sm.jpg,/objects/thumbs/m-01_th.jpg
+dollarware_210,M-02,Site M_Taty,371,80.5,73,96.3,3.9,79.9,312.9,143,Image;StillImage,image/jpg,image,/objects/m-02.jpg,/objects/small/m-02_sm.jpg,/objects/thumbs/m-02_th.jpg
+dollarware_211,M-03,Site M_Taty,312.3,77.4,70.1,101.2,3.8,75.9,308.1,149,Image;StillImage,image/jpg,image,/objects/m-03.jpg,/objects/small/m-03_sm.jpg,/objects/thumbs/m-03_th.jpg
+dollarware_212,M-04,Site M_Taty,241.2,88.1,82.4,99.9,3.1,52.4,306.2,111,Image;StillImage,image/jpg,image,/objects/m-04.jpg,/objects/small/m-04_sm.jpg,/objects/thumbs/m-04_th.jpg
+dollarware_213,M-05,Site M_Taty,390.7,87.3,78.5,91.7,4.5,87.4,350.8,173,Image;StillImage,image/jpg,image,/objects/m-05.jpg,/objects/small/m-05_sm.jpg,/objects/thumbs/m-05_th.jpg
+dollarware_214,M-06,Site M_Taty,406.6,82.6,76.3,97.8,4.2,83,343.1,186,Image;StillImage,image/jpg,image,/objects/m-06.jpg,/objects/small/m-06_sm.jpg,/objects/thumbs/m-06_th.jpg
+dollarware_215,M-07,Site M_Taty,247.4,69.9,63.4,97.7,3,67.9,279.2,112,Image;StillImage,image/jpg,image,/objects/m-07.jpg,/objects/small/m-07_sm.jpg,/objects/thumbs/m-07_th.jpg
+dollarware_216,M-08,Site M_Taty,352.4,87.1,80,85.6,3.8,82.9,327.3,148,Image;StillImage,image/jpg,image,/objects/m-08.jpg,/objects/small/m-08_sm.jpg,/objects/thumbs/m-08_th.jpg
+dollarware_217,M-09,Site M_Taty,355.9,86.7,79.3,86.4,3.8,85.5,341,150,Image;StillImage,image/jpg,image,/objects/m-09.jpg,/objects/small/m-09_sm.jpg,/objects/thumbs/m-09_th.jpg
+dollarware_218,M-10,Site M_Taty,481.6,90.2,82,149.5,4.3,59.8,500.8,212,Image;StillImage,image/jpg,image,/objects/m-10.jpg,/objects/small/m-10_sm.jpg,/objects/thumbs/m-10_th.jpg
+dollarware_219,M-11,Site M_Taty,264.3,70.6,65.8,98.2,2.5,68.7,260.8,120,Image;StillImage,image/jpg,image,/objects/m-11.jpg,/objects/small/m-11_sm.jpg,/objects/thumbs/m-11_th.jpg
+dollarware_220,M-12,Site M_Taty,282.6,68.9,62.3,98,2.2,68.4,253.8,120,Image;StillImage,image/jpg,image,/objects/m-12.jpg,/objects/small/m-12_sm.jpg,/objects/thumbs/m-12_th.jpg
+dollarware_221,M-13,Site M_Taty,274.8,69.6,64.7,98.5,3.1,69.1,264.6,121,Image;StillImage,image/jpg,image,/objects/m-13.jpg,/objects/small/m-13_sm.jpg,/objects/thumbs/m-13_th.jpg
+dollarware_222,M-14,Site M_Taty,395.6,89.2,82.2,92.7,2.9,86.8,352.1,178,Image;StillImage,image/jpg,image,/objects/m-14.jpg,/objects/small/m-14_sm.jpg,/objects/thumbs/m-14_th.jpg
+dollarware_223,M-15,Site M_Taty,270.5,73,66.5,99.4,3.4,67.7,267.3,128,Image;StillImage,image/jpg,image,/objects/m-15.jpg,/objects/small/m-15_sm.jpg,/objects/thumbs/m-15_th.jpg
+dollarware_224,M-16,Site M_Taty,282,76.8,70.1,103.7,3.3,70.1,300.6,126,Image;StillImage,image/jpg,image,/objects/m-16.jpg,/objects/small/m-16_sm.jpg,/objects/thumbs/m-16_th.jpg
+dollarware_225,M-17,Site M_Taty,336.2,86.1,79.9,81.6,2.9,85.2,341.5,146,Image;StillImage,image/jpg,image,/objects/m-17.jpg,/objects/small/m-17_sm.jpg,/objects/thumbs/m-17_th.jpg
+dollarware_226,M-18,Site M_Taty,393.5,84.3,77.6,89.7,3.7,82.1,324.2,188,Image;StillImage,image/jpg,image,/objects/m-18.jpg,/objects/small/m-18_sm.jpg,/objects/thumbs/m-18_th.jpg
+dollarware_227,M-19,Site M_Taty,79.1,53.6,49.2,54.1,2.4,51.8,82.3,29,Image;StillImage,image/jpg,image,/objects/m-19.jpg,/objects/small/m-19_sm.jpg,/objects/thumbs/m-19_th.jpg
+dollarware_228,M-20,Site M_Taty,370.9,79.4,73.1,93.2,3.5,78.7,311.7,165,Image;StillImage,image/jpg,image,/objects/m-20.jpg,/objects/small/m-20_sm.jpg,/objects/thumbs/m-20_th.jpg
+dollarware_229,N-01,Site N_ Village des Valeurs_Comparative Collection,326.5,82.2,72.6,96.5,4.1,82.6,353.2,127,Image;StillImage,image/jpg,image,/objects/n-01.jpg,/objects/small/n-01_sm.jpg,/objects/thumbs/n-01_th.jpg
+dollarware_230,N-02,Site N_ Village des Valeurs_Comparative Collection,349.8,83.3,73.3,87.2,3.1,83.7,317.9,163,Image;StillImage,image/jpg,image,/objects/n-02.jpg,/objects/small/n-02_sm.jpg,/objects/thumbs/n-02_th.jpg
+dollarware_231,N-03,Site N_ Village des Valeurs_Comparative Collection,304.6,79.4,72.6,88.1,4.2,79.6,298.5,111,Image;StillImage,image/jpg,image,/objects/n-03.jpg,/objects/small/n-03_sm.jpg,/objects/thumbs/n-03_th.jpg
+dollarware_232,N-04,Site N_ Village des Valeurs_Comparative Collection,322,77.2,65.9,98.1,6.1,69.1,256.2,120,Image;StillImage,image/jpg,image,/objects/n-04.jpg,/objects/small/n-04_sm.jpg,/objects/thumbs/n-04_th.jpg
+dollarware_233,N-05,Site N_ Village des Valeurs_Comparative Collection,254.4,83.1,73.3,109.1,4.2,78.8,437.3,123,Image;StillImage,image/jpg,image,/objects/n-05.jpg,/objects/small/n-05_sm.jpg,/objects/thumbs/n-05_th.jpg
+dollarware_234,N-06,Site N_ Village des Valeurs_Comparative Collection,257.1,82.8,72.7,89.2,6.1,63.4,300,106,Image;StillImage,image/jpg,image,/objects/n-06.jpg,/objects/small/n-06_sm.jpg,/objects/thumbs/n-06_th.jpg
+dollarware_235,N-07,Site N_ Village des Valeurs_Comparative Collection,254.8,75.1,68.4,88.7,3.4,74.2,272.8,132,Image;StillImage,image/jpg,image,/objects/n-07.jpg,/objects/small/n-07_sm.jpg,/objects/thumbs/n-07_th.jpg
+dollarware_236,N-08,Site N_ Village des Valeurs_Comparative Collection,396.7,83.3,72.4,100.7,4.7,79.4,347.5,144,Image;StillImage,image/jpg,image,/objects/n-08.jpg,/objects/small/n-08_sm.jpg,/objects/thumbs/n-08_th.jpg
+dollarware_237,N-09,Site N_ Village des Valeurs_Comparative Collection,312.6,92.6,71,96.8,3.2,66.1,272.8,160,Image;StillImage,image/jpg,image,/objects/n-09.jpg,/objects/small/n-09_sm.jpg,/objects/thumbs/n-09_th.jpg
+dollarware_238,N-10,Site N_ Village des Valeurs_Comparative Collection,298.5,83.6,71.3,95.2,4.8,80.2,344.4,131,Image;StillImage,image/jpg,image,/objects/n-10.jpg,/objects/small/n-10_sm.jpg,/objects/thumbs/n-10_th.jpg
+dollarware_239,N-11,Site N_ Village des Valeurs_Comparative Collection,286,83.1,76.2,106.2,3.3,56.1,375.9,98,Image;StillImage,image/jpg,image,/objects/n-11.jpg,/objects/small/n-11_sm.jpg,/objects/thumbs/n-11_th.jpg
+dollarware_240,N-12,Site N_ Village des Valeurs_Comparative Collection,390.4,90.2,79.6,151.1,5.2,62.8,488,212,Image;StillImage,image/jpg,image,/objects/n-12.jpg,/objects/small/n-12_sm.jpg,/objects/thumbs/n-12_th.jpg
+dollarware_241,N-13,Site N_ Village des Valeurs_Comparative Collection,306.7,80.7,73.2,91.5,3.3,77.9,290.4,106,Image;StillImage,image/jpg,image,/objects/n-13.jpg,/objects/small/n-13_sm.jpg,/objects/thumbs/n-13_th.jpg
+dollarware_242,N-14,Site N_ Village des Valeurs_Comparative Collection,264.6,77.4,70.1,89.6,4.7,74.5,283.2,118,Image;StillImage,image/jpg,image,/objects/n-14.jpg,/objects/small/n-14_sm.jpg,/objects/thumbs/n-14_th.jpg
+dollarware_243,N-15,Site N_ Village des Valeurs_Comparative Collection,336.2,79.8,71.6,93.2,4.8,78.5,311.7,141,Image;StillImage,image/jpg,image,/objects/n-15.jpg,/objects/small/n-15_sm.jpg,/objects/thumbs/n-15_th.jpg
+dollarware_244,N-16,Site N_ Village des Valeurs_Comparative Collection,273.5,72.7,63.6,89.1,4.9,70.2,231.5,112,Image;StillImage,image/jpg,image,/objects/n-16.jpg,/objects/small/n-16_sm.jpg,/objects/thumbs/n-16_th.jpg
+dollarware_245,N-17,Site N_ Village des Valeurs_Comparative Collection,296.6,78.2,67.6,93.7,4.1,77.4,316,92,Image;StillImage,image/jpg,image,/objects/n-17.jpg,/objects/small/n-17_sm.jpg,/objects/thumbs/n-17_th.jpg
+dollarware_246,N-18,Site N_ Village des Valeurs_Comparative Collection,93,89.1,84.1,67.7,3.1,49.9,197.4,37,Image;StillImage,image/jpg,image,/objects/n-18.jpg,/objects/small/n-18_sm.jpg,/objects/thumbs/n-18_th.jpg
+dollarware_247,N-19,Site N_ Village des Valeurs_Comparative Collection,570.7,105.2,96.5,120.9,4.3,72.7,489.8,254,Image;StillImage,image/jpg,image,/objects/n-19.jpg,/objects/small/n-19_sm.jpg,/objects/thumbs/n-19_th.jpg
+dollarware_248,N-20,Site N_ Village des Valeurs_Comparative Collection,378,81.1,74.9,94.4,4.1,80.6,313.7,142,Image;StillImage,image/jpg,image,/objects/n-20.jpg,/objects/small/n-20_sm.jpg,/objects/thumbs/n-20_th.jpg
+dollarware_249,N-21,Site N_ Village des Valeurs_Comparative Collection,285.9,72.8,61.5,98.4,5.6,72.9,258.2,154,Image;StillImage,image/jpg,image,/objects/n-21.jpg,/objects/small/n-21_sm.jpg,/objects/thumbs/n-21_th.jpg
+dollarware_250,N-22,Site N_ Village des Valeurs_Comparative Collection,249.1,75.9,68,121.4,3.7,35.6,226.8,107,Image;StillImage,image/jpg,image,/objects/n-22.jpg,/objects/small/n-22_sm.jpg,/objects/thumbs/n-22_th.jpg
+dollarware_251,N-23,Site N_ Village des Valeurs_Comparative Collection,373.9,82.1,69.3,94.6,6.4,81.2,311.8,178,Image;StillImage,image/jpg,image,/objects/n-23.jpg,/objects/small/n-23_sm.jpg,/objects/thumbs/n-23_th.jpg
+dollarware_252,N-24,Site N_ Village des Valeurs_Comparative Collection,312.7,87.4,76.7,87.5,5.3,68.7,264.8,120,Image;StillImage,image/jpg,image,/objects/n-24.jpg,/objects/small/n-24_sm.jpg,/objects/thumbs/n-24_th.jpg
+dollarware_253,N-25,Site N_ Village des Valeurs_Comparative Collection,275.1,80.4,66.8,90.4,5.4,75.1,286.4,142,Image;StillImage,image/jpg,image,/objects/n-25.jpg,/objects/small/n-25_sm.jpg,/objects/thumbs/n-25_th.jpg
+dollarware_254,N-26,Site N_ Village des Valeurs_Comparative Collection,356.1,86.4,79,112,3.7,52.7,262.7,147,Image;StillImage,image/jpg,image,/objects/n-26.jpg,/objects/small/n-26_sm.jpg,/objects/thumbs/n-26_th.jpg
+dollarware_255,N-27,Site N_ Village des Valeurs_Comparative Collection,317.7,80.6,68.3,90.5,5.6,80.5,318.2,110,Image;StillImage,image/jpg,image,/objects/n-27.jpg,/objects/small/n-27_sm.jpg,/objects/thumbs/n-27_th.jpg
+dollarware_256,N-28,Site N_ Village des Valeurs_Comparative Collection,255.3,90.6,78.8,88.4,4.4,77.1,305.5,138,Image;StillImage,image/jpg,image,/objects/n-28.jpg,/objects/small/n-28_sm.jpg,/objects/thumbs/n-28_th.jpg
+dollarware_257,N-29,Site N_ Village des Valeurs_Comparative Collection,373.8,82.2,70.1,94.7,5.4,81.6,311.9,164,Image;StillImage,image/jpg,image,/objects/n-29.jpg,/objects/small/n-29_sm.jpg,/objects/thumbs/n-29_th.jpg
+dollarware_258,N-30,Site N_ Village des Valeurs_Comparative Collection,282.1,85.1,71.3,108.2,5.1,59.2,309,154,Image;StillImage,image/jpg,image,/objects/n-30.jpg,/objects/small/n-30_sm.jpg,/objects/thumbs/n-30_th.jpg
+dollarware_259,N-31,Site N_ Village des Valeurs_Comparative Collection,319.4,84.6,70.2,102.7,6.2,60.1,319.6,152,Image;StillImage,image/jpg,image,/objects/n-31.jpeg,/objects/small/n-31_sm.jpg,/objects/thumbs/n-31_th.jpg
+dollarware_260,N-32,Site N_ Village des Valeurs_Comparative Collection,227.5,86.8,72.6,92.2,4.1,66.8,294.7,92,Image;StillImage,image/jpg,image,/objects/n-32.jpeg,/objects/small/n-32_sm.jpg,/objects/thumbs/n-32_th.jpg
+dollarware_261,N-33,Site N_ Village des Valeurs_Comparative Collection,329,80.6,69.1,96.8,5.4,80.5,321.8,137,Image;StillImage,image/jpg,image,/objects/n-33.jpeg,/objects/small/n-33_sm.jpg,/objects/thumbs/n-33_th.jpg
+dollarware_262,N-34,Site N_ Village des Valeurs_Comparative Collection,395.3,82.3,71.5,99.1,5.1,81.5,342.5,168,Image;StillImage,image/jpg,image,/objects/n-34.jpeg,/objects/small/n-34_sm.jpg,/objects/thumbs/n-34_th.jpg
+dollarware_263,N-35,Site N_ Village des Valeurs_Comparative Collection,458.3,92.4,80.5,123.4,4.4,54,398.9,156,Image;StillImage,image/jpg,image,/objects/n-35.jpeg,/objects/small/n-35_sm.jpg,/objects/thumbs/n-35_th.jpg
+dollarware_264,N-36,Site N_ Village des Valeurs_Comparative Collection,256.5,74,66.1,99.7,4.1,67.5,269.5,88,Image;StillImage,image/jpg,image,/objects/n-36.jpeg,/objects/small/n-36_sm.jpg,/objects/thumbs/n-36_th.jpg
+dollarware_265,N-37,Site N_ Village des Valeurs_Comparative Collection,247.8,72.4,64.7,98.5,3.6,67.5,255.4,120,Image;StillImage,image/jpg,image,/objects/n-37.jpeg,/objects/small/n-37_sm.jpg,/objects/thumbs/n-37_th.jpg
+dollarware_266,N-38,Site N_ Village des Valeurs_Comparative Collection,338.3,82.6,76.4,88.8,3.3,80.1,317.1,138,Image;StillImage,image/jpg,image,/objects/n-38.jpeg,/objects/small/n-38_sm.jpg,/objects/thumbs/n-38_th.jpg
+dollarware_267,N-39,Site N_ Village des Valeurs_Comparative Collection,247.4,73.1,66.1,100.3,3.1,67.4,275.2,130,Image;StillImage,image/jpg,image,/objects/n-39.jpeg,/objects/small/n-39_sm.jpg,/objects/thumbs/n-39_th.jpg
+dollarware_268,N-40,Site N_ Village des Valeurs_Comparative Collection,386.5,113.5,104.5,57.1,4,110,348.7,162,Image;StillImage,image/jpg,image,/objects/n-40.jpeg,/objects/small/n-40_sm.jpg,/objects/thumbs/n-40_th.jpg
+dollarware_269,N-41,Site N_ Village des Valeurs_Comparative Collection,361.8,81.1,74.4,95.2,3.1,80,329.5,156,Image;StillImage,image/jpg,image,/objects/n-41.jpeg,/objects/small/n-41_sm.jpg,/objects/thumbs/n-41_th.jpg
+dollarware_270,N-42,Site N_ Village des Valeurs_Comparative Collection,309.5,73,66,107.7,3,66.1,282.3,139,Image;StillImage,image/jpg,image,/objects/n-42.jpeg,/objects/small/n-42_sm.jpg,/objects/thumbs/n-42_th.jpg
+dollarware_271,N-43,Site N_ Village des Valeurs_Comparative Collection,331,80.1,73.5,93.4,2.7,78.6,331.7,128,Image;StillImage,image/jpg,image,/objects/n-43.jpeg,/objects/small/n-43_sm.jpg,/objects/thumbs/n-43_th.jpg
+dollarware_272,N-44,Site N_ Village des Valeurs_Comparative Collection,411.5,111.7,102.7,91.2,4.1,55.6,524.5,156,Image;StillImage,image/jpg,image,/objects/n-44.jpeg,/objects/small/n-44_sm.jpg,/objects/thumbs/n-44_th.jpg
+dollarware_273,N-45,Site N_ Village des Valeurs_Comparative Collection,358.1,85.9,77.8,95.7,3.2,75.5,313.8,162,Image;StillImage,image/jpg,image,/objects/n-45.jpeg,/objects/small/n-45_sm.jpg,/objects/thumbs/n-45_th.jpg
+dollarware_274,N-46,Site N_ Village des Valeurs_Comparative Collection,307.2,83.6,76.6,89.3,3.7,72.1,256.7,122,Image;StillImage,image/jpg,image,/objects/n-46.jpeg,/objects/small/n-46_sm.jpg,/objects/thumbs/n-46_th.jpg
+dollarware_275,N-47,Site N_ Village des Valeurs_Comparative Collection,479.9,97.4,87.6,83.5,4.4,79.8,442.1,217,Image;StillImage,image/jpg,image,/objects/n-47.jpeg,/objects/small/n-47_sm.jpg,/objects/thumbs/n-47_th.jpg
+dollarware_276,N-48,Site N_ Village des Valeurs_Comparative Collection,332.9,83.2,76,90,3.7,82.5,320.6,154,Image;StillImage,image/jpg,image,/objects/n-48.jpeg,/objects/small/n-48_sm.jpg,/objects/thumbs/n-48_th.jpg
+dollarware_277,N-49,Site N_ Village des Valeurs_Comparative Collection,235.5,72.1,66.2,88.8,2.8,68,234.2,99,Image;StillImage,image/jpg,image,/objects/n-49.jpeg,/objects/small/n-49_sm.jpg,/objects/thumbs/n-49_th.jpg
+dollarware_278,N-50,Site N_ Village des Valeurs_Comparative Collection,281.6,79.5,71.3,124.2,3.9,68.1,354,138,Image;StillImage,image/jpg,image,/objects/n-50.jpeg,/objects/small/n-50_sm.jpg,/objects/thumbs/n-50_th.jpg
+dollarware_279,N-51,Site N_ Village des Valeurs_Comparative Collection,302.6,81.8,74.3,98.1,3.1,73.9,324.9,102,Image;StillImage,image/jpg,image,/objects/n-51.jpg,/objects/small/n-51_sm.jpg,/objects/thumbs/n-51_th.jpg
+dollarware_280,N-52,Site N_ Village des Valeurs_Comparative Collection,390.1,85.8,77.8,92.7,3.9,83.6,353.2,163,Image;StillImage,image/jpg,image,/objects/n-52.jpg,/objects/small/n-52_sm.jpg,/objects/thumbs/n-52_th.jpg
+dollarware_281,N-53,Site N_ Village des Valeurs_Comparative Collection,271.9,71.9,65,100.2,3,68,264,126,Image;StillImage,image/jpg,image,/objects/n-53.jpg,/objects/small/n-53_sm.jpg,/objects/thumbs/n-53_th.jpg
+dollarware_282,N-54,Site N_ Village des Valeurs_Comparative Collection,386,84.2,74.7,99.4,3.7,84.3,373.3,159,Image;StillImage,image/jpg,image,/objects/n-54.jpg,/objects/small/n-54_sm.jpg,/objects/thumbs/n-54_th.jpg
+dollarware_283,N-55,Site N_ Village des Valeurs_Comparative Collection,315.1,81.2,71.5,88.2,4.7,77.8,272.6,130,Image;StillImage,image/jpg,image,/objects/n-55.jpg,/objects/small/n-55_sm.jpg,/objects/thumbs/n-55_th.jpg
+dollarware_284,N-56,Site N_ Village des Valeurs_Comparative Collection,301.7,78.4,70.5,85,3.2,78.6,276.6,129,Image;StillImage,image/jpg,image,/objects/n-56.jpg,/objects/small/n-56_sm.jpg,/objects/thumbs/n-56_th.jpg
+dollarware_285,N-57,Site N_ Village des Valeurs_Comparative Collection,257.9,75.3,62.4,102.8,3.7,68.9,277.9,110,Image;StillImage,image/jpg,image,/objects/n-57.jpg,/objects/small/n-57_sm.jpg,/objects/thumbs/n-57_th.jpg
+dollarware_286,N-58,Site N_ Village des Valeurs_Comparative Collection,383.8,83.5,74.6,96.8,3.5,83.1,359.6,160,Image;StillImage,image/jpg,image,/objects/n-58.jpg,/objects/small/n-58_sm.jpg,/objects/thumbs/n-58_th.jpg
+dollarware_287,N-59,Site N_ Village des Valeurs_Comparative Collection,129.5,80.5,72.2,75.1,4,69.2,215.9,55,Image;StillImage,image/jpg,image,/objects/n-59.jpg,/objects/small/n-59_sm.jpg,/objects/thumbs/n-59_th.jpg
+dollarware_288,N-60,Site N_ Village des Valeurs_Comparative Collection,324.6,80.5,72.4,90.3,2.5,81.2,345.4,150,Image;StillImage,image/jpg,image,/objects/n-60.jpg,/objects/small/n-60_sm.jpg,/objects/thumbs/n-60_th.jpg
+dollarware_289,N-61,Site N_ Village des Valeurs_Comparative Collection,253.8,81.3,68.3,79.3,4.6,74.4,238.8,94,Image;StillImage,image/jpg,image,/objects/n-61.jpg,/objects/small/n-61_sm.jpg,/objects/thumbs/n-61_th.jpg
+dollarware_290,P-01,Site P_The Salvation Army Okanagan Central,349.5,93.5,87,98,5.31,62,330,125 +/- 10  ,Image;StillImage,image/jpg,image,/objects/p-01.jpg,/objects/small/p-01_sm.jpg,/objects/thumbs/p-01_th.jpg
+dollarware_291,P-02,Site P_The Salvation Army Okanagan Central,226.2,88,79,88,4.08,48,295,60 +/- 10  ,Image;StillImage,image/jpg,image,/objects/p-02.jpg,/objects/small/p-02_sm.jpg,/objects/thumbs/p-02_th.jpg
+dollarware_292,P-03,Site P_The Salvation Army Okanagan Central,188.9,76.5,72,101,3.37,68,320,<50  ,Image;StillImage,image/jpg,image,/objects/p-03.jpg,/objects/small/p-03_sm.jpg,/objects/thumbs/p-03_th.jpg
+dollarware_293,P-04,Site P_The Salvation Army Okanagan Central,269,77,71,104,4.53,59,295,90 +/- 10  ,Image;StillImage,image/jpg,image,/objects/p-04.jpg,/objects/small/p-04_sm.jpg,/objects/thumbs/p-04_th.jpg
+dollarware_294,P-05,Site P_The Salvation Army Okanagan Central,383.2,90,84,99,5.6,59.2,390,150 +/- 10  ,Image;StillImage,image/jpg,image,/objects/p-05.jpg,/objects/small/p-05_sm.jpg,/objects/thumbs/p-05_th.jpg
+dollarware_295,P-06,Site P_The Salvation Army Okanagan Central,311.1,77,72,100,5.46,54,295,90 +/- 10  ,Image;StillImage,image/jpg,image,/objects/p-06.jpg,/objects/small/p-06_sm.jpg,/objects/thumbs/p-06_th.jpg
+dollarware_296,P-07,Site P_The Salvation Army Okanagan Central,373.4,83,76,106,5.2,57,340,150 +/- 10  ,Image;StillImage,image/jpg,image,/objects/p-07.jpg,/objects/small/p-07_sm.jpg,/objects/thumbs/p-07_th.jpg
+dollarware_297,P-08,Site P_The Salvation Army Okanagan Central,297,85,78,106,6.06,53,315,125 +/- 10  ,Image;StillImage,image/jpg,image,/objects/p-08.jpg,/objects/small/p-08_sm.jpg,/objects/thumbs/p-08_th.jpg
+dollarware_298,P-09,Site P_The Salvation Army Okanagan Central,295.85,76,69.5,107,4.67,58,340,100 +/- 10  ,Image;StillImage,image/jpg,image,/objects/p-09.jpg,/objects/small/p-09_sm.jpg,/objects/thumbs/p-09_th.jpg
+dollarware_299,P-10,Site P_The Salvation Army Okanagan Central,242,72.2,69,104,3.67,53,275,60 +/- 10  ,Image;StillImage,image/jpg,image,/objects/p-10.jpg,/objects/small/p-10_sm.jpg,/objects/thumbs/p-10_th.jpg
+dollarware_300,P-11,Site P_The Salvation Army Okanagan Central,296,87.5,82,95,3.15,58,360  (+/-10 ),100  (+/-25 ),Image;StillImage,image/jpg,image,/objects/p-11.jpg,/objects/small/p-11_sm.jpg,/objects/thumbs/p-11_th.jpg
+dollarware_301,P-12,Site P_The Salvation Army Okanagan Central,371.75,94,89,100.5,3.57,57.5,450  (+/-10 ),190  (+/-25 ),Image;StillImage,image/jpg,image,/objects/p-12.jpg,/objects/small/p-12_sm.jpg,/objects/thumbs/p-12_th.jpg
+dollarware_302,P-13,Site P_The Salvation Army Okanagan Central,273,80,74,83.5,3.34,66,300  (+/-10 ),90  (+/-25 ),Image;StillImage,image/jpg,image,/objects/p-13.jpg,/objects/small/p-13_sm.jpg,/objects/thumbs/p-13_th.jpg
+dollarware_303,P-14,Site P_The Salvation Army Okanagan Central,427,99,92.5,85.5,4.47,87,465  (+/-10 ),200  (+/-25 ),Image;StillImage,image/jpg,image,/objects/p-14.jpg,/objects/small/p-14_sm.jpg,/objects/thumbs/p-14_th.jpg
+dollarware_304,P-15,Site P_The Salvation Army Okanagan Central,316,89,85,77.5,3.41,77,320  (+/-10 ),110  (+/-25 ),Image;StillImage,image/jpg,image,/objects/p-15.jpg,/objects/small/p-15_sm.jpg,/objects/thumbs/p-15_th.jpg
+dollarware_305,P-16,Site P_The Salvation Army Okanagan Central,294.5,88.5,83,101,3.29,58,395  (+/-10 ),90  (+/-25 ),Image;StillImage,image/jpg,image,/objects/p-16.jpg,/objects/small/p-16_sm.jpg,/objects/thumbs/p-16_th.jpg
+dollarware_306,P-17,Site P_The Salvation Army Okanagan Central,234,78,71,84.5,3.95,49,210  (+/-10 ),80  (+/-25 ),Image;StillImage,image/jpg,image,/objects/p-17.jpg,/objects/small/p-17_sm.jpg,/objects/thumbs/p-17_th.jpg
+dollarware_307,P-18,Site P_The Salvation Army Okanagan Central,388.7,94,86,97.5,3.83,90,475  (+/-10 ),125  (+/-25 ),Image;StillImage,image/jpg,image,/objects/p-18.jpg,/objects/small/p-18_sm.jpg,/objects/thumbs/p-18_th.jpg
+dollarware_308,P-19,Site P_The Salvation Army Okanagan Central,387,92.5,86,101,4.03,55,445  (+/-10 ),125  (+/-25 ),Image;StillImage,image/jpg,image,/objects/p-19.jpg,/objects/small/p-19_sm.jpg,/objects/thumbs/p-19_th.jpg
+dollarware_309,P-20,Site P_The Salvation Army Okanagan Central,437.7,86.5,80.5,115,3.87,78,500  (+/-10 ),140  (+/-25 ),Image;StillImage,image/jpg,image,/objects/p-20.jpg,/objects/small/p-20_sm.jpg,/objects/thumbs/p-20_th.jpg
+dollarware_310,P-21,Site P_The Salvation Army Okanagan Central,178,82,77,89.25,2.8,50.02,285,10   (+/- 5),Image;StillImage,image/jpg,image,/objects/p-21.jpg,/objects/small/p-21_sm.jpg,/objects/thumbs/p-21_th.jpg
+dollarware_311,P-22,Site P_The Salvation Army Okanagan Central,226,86,79,88,3.53,51.03,295,20   (+/- 10),Image;StillImage,image/jpg,image,/objects/p-22.jpg,/objects/small/p-22_sm.jpg,/objects/thumbs/p-22_th.jpg
+dollarware_312,P-23,Site P_The Salvation Army Okanagan Central,249,82,75,94.5,3.26,51.06,325,25   (+/- 10),Image;StillImage,image/jpg,image,/objects/p-23.jpg,/objects/small/p-23_sm.jpg,/objects/thumbs/p-23_th.jpg
+dollarware_313,P-24,Site P_The Salvation Army Okanagan Central,191,72.5,68,103,2.42,49.71,290,20   (+/- 10),Image;StillImage,image/jpg,image,/objects/p-24.jpg,/objects/small/p-24_sm.jpg,/objects/thumbs/p-24_th.jpg
+dollarware_314,P-25,Site P_The Salvation Army Okanagan Central,238,72,67.5,103,2.33,52.05,275,20   (+/- 10),Image;StillImage,image/jpg,image,/objects/p-25.jpg,/objects/small/p-25_sm.jpg,/objects/thumbs/p-25_th.jpg
+dollarware_315,P-26,Site P_The Salvation Army Okanagan Central,234,72.5,68,103,2.33,51.73,273,20   (+/-10),Image;StillImage,image/jpg,image,/objects/p-26.jpg,/objects/small/p-26_sm.jpg,/objects/thumbs/p-26_th.jpg
+dollarware_316,P-27,Site P_The Salvation Army Okanagan Central,172,84,80,82,2.22,64.53,265,2   (+/- 2),Image;StillImage,image/jpg,image,/objects/p-27.jpg,/objects/small/p-27_sm.jpg,/objects/thumbs/p-27_th.jpg
+dollarware_317,P-28,Site P_The Salvation Army Okanagan Central,330,90,83,93,5.73,53.05,345,75   (+/- 10),Image;StillImage,image/jpg,image,/objects/p-28.jpg,/objects/small/p-28_sm.jpg,/objects/thumbs/p-28_th.jpg
+dollarware_318,P-29,Site P_The Salvation Army Okanagan Central,342,86,81.5,106,4.32,60.77,335,75   (+/- 10),Image;StillImage,image/jpg,image,/objects/p-29.jpg,/objects/small/p-29_sm.jpg,/objects/thumbs/p-29_th.jpg
+dollarware_319,P-30,Site P_The Salvation Army Okanagan Central,242,86,80.5,101,3.35,50.05,300,15   (+/- 5),Image;StillImage,image/jpg,image,/objects/p-30.jpg,/objects/small/p-30_sm.jpg,/objects/thumbs/p-30_th.jpg
+dollarware_320,Q-01,Site Q_MCC Thrift,385,90.65,79.29,105,4.88,63,500,100,Image;StillImage,image/jpg,image,/objects/q-1.jpg,/objects/small/q-1_sm.jpg,/objects/thumbs/q-1_th.jpg
+dollarware_321,Q-02,Site Q_MCC Thrift,403,99.26,86.7,84,5.46,82,490,< 50  ,Image;StillImage,image/jpg,image,/objects/q-2.jpg,/objects/small/q-2_sm.jpg,/objects/thumbs/q-2_th.jpg
+dollarware_322,Q-03,Site Q_MCC Thrift,294,87.59,74.93,85,5.19,56,300,< 50  ,Image;StillImage,image/jpg,image,/objects/q-3.jpg,/objects/small/q-3_sm.jpg,/objects/thumbs/q-3_th.jpg
+dollarware_323,Q-04,Site Q_MCC Thrift,318,83.85,73.08,113,3.83,54,400,< 50  ,Image;StillImage,image/jpg,image,/objects/q-4.jpg,/objects/small/q-4_sm.jpg,/objects/thumbs/q-4_th.jpg
+dollarware_324,Q-05,Site Q_MCC Thrift,458,90.97,77.69,155,5.96,58,500,<50 ,Image;StillImage,image/jpg,image,/objects/q-5.jpg,/objects/small/q-5_sm.jpg,/objects/thumbs/q-5_th.jpg
+dollarware_325,Q-06,Site Q_MCC Thrift,310,72.33,60.23,99,4.21,69,275,100,Image;StillImage,image/jpg,image,/objects/q-6.jpg,/objects/small/q-6_sm.jpg,/objects/thumbs/q-6_th.jpg
+dollarware_326,Q-07,Site Q_MCC Thrift,289,73.49,57.16,103,5.68,66,275,<50 ,Image;StillImage,image/jpg,image,/objects/q-7.jpg,/objects/small/q-7_sm.jpg,/objects/thumbs/q-7_th.jpg
+dollarware_327,Q-08,Site Q_MCC Thrift,321,85.83,67.8,85,8.92,58,300,<50 ,Image;StillImage,image/jpg,image,/objects/q-8.jpg,/objects/small/q-8_sm.jpg,/objects/thumbs/q-8_th.jpg
+dollarware_328,Q-09,Site Q_MCC Thrift,189,88.64,73.59,95,2.88,52,350,<50 ,Image;StillImage,image/jpg,image,/objects/q-9.jpg,/objects/small/q-9_sm.jpg,/objects/thumbs/q-9_th.jpg
+dollarware_329,Q-10,Site Q_MCC Thrift,363,89.01,76.65,94,5.38,47,400,<50  ,Image;StillImage,image/jpg,image,/objects/q-10.jpg,/objects/small/q-10_sm.jpg,/objects/thumbs/q-10_th.jpg
+dollarware_330,Q-60,Site Q_MCC Thrift,351,82.1,49.1,94,6.45,80,,,Image;StillImage,image/jpeg,image,/objects/q-60.jpeg,/objects/small/q-60_sm.jpg,/objects/thumbs/q-60_th.jpg
+dollarware_331,R-01,Site R_Kelowna_s Gospel Mission,460.2,88,79,147,5.11,56,485,250,Image;StillImage,image/jpg,image,/objects/r-01.jpg,/objects/small/r-01_sm.jpg,/objects/thumbs/r-01_th.jpg
+dollarware_332,R-02,Site R_Kelowna_s Gospel Mission,397.1,87,80,100,5.14,59,465,125,Image;StillImage,image/jpg,image,/objects/r-02.jpg,/objects/small/r-02_sm.jpg,/objects/thumbs/r-02_th.jpg
+dollarware_333,R-03,Site R_Kelowna_s Gospel Mission,253.3,81,86,97,4.78,49,305,75,Image;StillImage,image/jpg,image,/objects/r-03.jpg,/objects/small/r-03_sm.jpg,/objects/thumbs/r-03_th.jpg
+dollarware_334,R-04,Site R_Kelowna_s Gospel Mission,258.2,83,77,119,3.39,51,310,120,Image;StillImage,image/jpg,image,/objects/r-04.jpg,/objects/small/r-04_sm.jpg,/objects/thumbs/r-04_th.jpg
+dollarware_335,R-05,Site R_Kelowna_s Gospel Mission,393.6,89,82,100,5.15,50,430,175,Image;StillImage,image/jpg,image,/objects/r-05.jpg,/objects/small/r-05_sm.jpg,/objects/thumbs/r-05_th.jpg
+dollarware_336,R-06,Site R_Kelowna_s Gospel Mission,290.4,74,68,96,4.77,51,305,120,Image;StillImage,image/jpg,image,/objects/r-06.jpg,/objects/small/r-06_sm.jpg,/objects/thumbs/r-06_th.jpg
+dollarware_337,R-07,Site R_Kelowna_s Gospel Mission,182.8,73,69,96,3.43,58,340,60,Image;StillImage,image/jpg,image,/objects/r-07.jpg,/objects/small/r-07_sm.jpg,/objects/thumbs/r-07_th.jpg
+dollarware_338,R-08,Site R_Kelowna_s Gospel Mission,372.7,78,71,96,5.73,77,345,140,Image;StillImage,image/jpg,image,/objects/r-08.jpg,/objects/small/r-08_sm.jpg,/objects/thumbs/r-08_th.jpg
+dollarware_339,R-09,Site R_Kelowna_s Gospel Mission,284.3,85,78,96,5.16,56,330,115,Image;StillImage,image/jpg,image,/objects/r-09.jpg,/objects/small/r-09_sm.jpg,/objects/thumbs/r-09_th.jpg
+dollarware_340,R-10,Site R_Kelowna_s Gospel Mission,242,86,78,96,5.61,50,350,60,Image;StillImage,image/jpg,image,/objects/r-10.jpg,/objects/small/r-10_sm.jpg,/objects/thumbs/r-10_th.jpg
+dollarware_341,R-11,Site R_Kelowna_s Gospel Mission,328,81.52,74.61,95.5,3.14,81.17,360,255,Image;StillImage,image/jpg,image,/objects/r-11.jpg,/objects/small/r-11_sm.jpg,/objects/thumbs/r-11_th.jpg
+dollarware_342,R-12,Site R_Kelowna_s Gospel Mission,304,72.27,66.55,94.01,3.94,69.95,335,240,Image;StillImage,image/jpg,image,/objects/r-12.jpg,/objects/small/r-12_sm.jpg,/objects/thumbs/r-12_th.jpg
+dollarware_343,R-13,Site R_Kelowna_s Gospel Mission,323,85.17,74.77,106.73,3.87,82.2,430,270,Image;StillImage,image/jpg,image,/objects/r-13.jpg,/objects/small/r-13_sm.jpg,/objects/thumbs/r-13_th.jpg
+dollarware_344,R-14,Site R_Kelowna_s Gospel Mission,308,79.75,72,96.31,3.9,78.19,335,250,Image;StillImage,image/jpg,image,/objects/r-14.jpg,/objects/small/r-14_sm.jpg,/objects/thumbs/r-14_th.jpg
+dollarware_345,R-15,Site R_Kelowna_s Gospel Mission,373,80.29,71.92,97.88,4.62,81.3,350,260,Image;StillImage,image/jpg,image,/objects/r-15.jpg,/objects/small/r-15_sm.jpg,/objects/thumbs/r-15_th.jpg
+dollarware_346,R-16,Site R_Kelowna_s Gospel Mission,375,81.55,72.52,96.07,5.03,80.83,330,265,Image;StillImage,image/jpg,image,/objects/r-16.jpg,/objects/small/r-16_sm.jpg,/objects/thumbs/r-16_th.jpg
+dollarware_347,R-17,Site R_Kelowna_s Gospel Mission,296,86.22,79.35,90.78,4.72,72.47,355,235,Image;StillImage,image/jpg,image,/objects/r-17.jpg,/objects/small/r-17_sm.jpg,/objects/thumbs/r-17_th.jpg
+dollarware_348,R-18,Site R_Kelowna_s Gospel Mission,382,82.27,74.97,95.84,4.84,80.44,325,260,Image;StillImage,image/jpg,image,/objects/r-18.jpg,/objects/small/r-18_sm.jpg,/objects/thumbs/r-18_th.jpg
+dollarware_349,R-19,Site R_Kelowna_s Gospel Mission,376,82.86,74.94,92.18,5.79,80.41,315,250,Image;StillImage,image/jpg,image,/objects/r-19.jpg,/objects/small/r-19_sm.jpg,/objects/thumbs/r-19_th.jpg
+dollarware_350,R-20,Site R_Kelowna_s Gospel Mission,453,89.11,82.5,100.02,4.91,89.21,425,280,Image;StillImage,image/jpg,image,/objects/r-20.jpg,/objects/small/r-20_sm.jpg,/objects/thumbs/r-20_th.jpg
+dollarware_351,R-21,Site R_Kelowna_s Gospel Mission,283.6,80.9,62.62,84.4,4.47,79.05,300,110,Image;StillImage,image/jpg,image,/objects/r-21.jpg,/objects/small/r-21_sm.jpg,/objects/thumbs/r-21_th.jpg
+dollarware_352,R-22,Site R_Kelowna_s Gospel Mission,262.5,81.1,65.42,95.2,5.8,67.47,340,120,Image;StillImage,image/jpg,image,/objects/r-22.jpg,/objects/small/r-22_sm.jpg,/objects/thumbs/r-22_th.jpg
+dollarware_353,R-23,Site R_Kelowna_s Gospel Mission,483.5,99.83,83.4,109,5.06,88.24,600,250,Image;StillImage,image/jpg,image,/objects/r-23.jpg,/objects/small/r-23_sm.jpg,/objects/thumbs/r-23_th.jpg
+dollarware_354,R-24,Site R_Kelowna_s Gospel Mission,364.2,92.63,79.93,82.39,5.5,74.89,370,140,Image;StillImage,image/jpg,image,/objects/r-24.jpg,/objects/small/r-24_sm.jpg,/objects/thumbs/r-24_th.jpg
+dollarware_355,R-25,Site R_Kelowna_s Gospel Mission,311.5,87.13,72.45,105.41,5.57,65.4,400,150,Image;StillImage,image/jpg,image,/objects/r-25.jpg,/objects/small/r-25_sm.jpg,/objects/thumbs/r-25_th.jpg
+dollarware_356,R-26,Site R_Kelowna_s Gospel Mission,474,84.45,60.77,115.9,4.93,81.95,430,240,Image;StillImage,image/jpg,image,/objects/r-26.jpg,/objects/small/r-26_sm.jpg,/objects/thumbs/r-26_th.jpg
+dollarware_357,R-27,Site R_Kelowna_s Gospel Mission,281,78.79,59.09,90.88,5.25,78.3,300,30,Image;StillImage,image/jpg,image,/objects/r-27.jpg,/objects/small/r-27_sm.jpg,/objects/thumbs/r-27_th.jpg
+dollarware_358,R-28,Site R_Kelowna_s Gospel Mission,336,88.43,72.42,124.4,5.75,48.43,350,70,Image;StillImage,image/jpg,image,/objects/r-28.jpg,/objects/small/r-28_sm.jpg,/objects/thumbs/r-28_th.jpg
+dollarware_359,R-29,Site R_Kelowna_s Gospel Mission,284.5,71.43,63.19,97.73,3.94,71.1,275,40,Image;StillImage,image/jpg,image,/objects/r-29.jpg,/objects/small/r-29_sm.jpg,/objects/thumbs/r-29_th.jpg
+dollarware_360,R-30,Site R_Kelowna_s Gospel Mission,399,92.1,71.46,103.3,5.24,89.53,475,,Image;StillImage,image/jpg,image,/objects/r-30.jpg,/objects/small/r-30_sm.jpg,/objects/thumbs/r-30_th.jpg
+dollarware_361,R-31,Site R_Kelowna_s Gospel Mission,235,72.89,67.12,104,2.75,52,265,,Image;StillImage,image/jpeg,image,/objects/r-31.jpeg,/objects/small/r-31_sm.jpg,/objects/thumbs/r-31_th.jpg
+dollarware_362,R-32,Site R_Kelowna_s Gospel Mission,219,77.39,70.25,85,3.42,75,290,,Image;StillImage,image/jpeg,image,/objects/r-32.jpeg,/objects/small/r-32_sm.jpg,/objects/thumbs/r-32_th.jpg
+dollarware_363,R-33,Site R_Kelowna_s Gospel Mission,211,78.66,68.15,87,3.57,69,280,,Image;StillImage,image/jpeg,image,/objects/r-33.jpeg,/objects/small/r-33_sm.jpg,/objects/thumbs/r-33_th.jpg
+dollarware_364,R-34,Site R_Kelowna_s Gospel Mission,377,89.74,82.37,106,5.25,87,500,,Image;StillImage,image/jpeg,image,/objects/r-34.jpeg,/objects/small/r-34_sm.jpg,/objects/thumbs/r-34_th.jpg
+dollarware_365,R-35,Site R_Kelowna_s Gospel Mission,338,83.27,71.83,102,5.61,62,335,,Image;StillImage,image/jpeg,image,/objects/r-35.jpeg,/objects/small/r-35_sm.jpg,/objects/thumbs/r-35_th.jpg
+dollarware_366,R-36,Site R_Kelowna_s Gospel Mission,359,80.45,69.77,94,5.92,77,300,,Image;StillImage,image/jpeg,image,/objects/r-36.jpeg,/objects/small/r-36_sm.jpg,/objects/thumbs/r-36_th.jpg
+dollarware_367,R-37,Site R_Kelowna_s Gospel Mission,375,82.38,71.84,95,5.46,81,325,,Image;StillImage,image/jpeg,image,/objects/r-37.jpeg,/objects/small/r-37_sm.jpg,/objects/thumbs/r-37_th.jpg
+dollarware_368,R-38,Site R_Kelowna_s Gospel Mission,280,85.32,74.91,100,5.54,52,285,,Image;StillImage,image/jpeg,image,/objects/r-38.jpeg,/objects/small/r-38_sm.jpg,/objects/thumbs/r-38_th.jpg
+dollarware_369,R-39,Site R_Kelowna_s Gospel Mission,295,87.85,79.2,97,5.11,51,310,,Image;StillImage,image/jpeg,image,/objects/r-39.jpeg,/objects/small/r-39_sm.jpg,/objects/thumbs/r-39_th.jpg
+dollarware_370,R-40,Site R_Kelowna_s Gospel Mission,269,85.32,75.15,114,4.93,57,315,,Image;StillImage,image/jpeg,image,/objects/r-40.jpeg,/objects/small/r-40_sm.jpg,/objects/thumbs/r-40_th.jpg
+dollarware_371,R-41,Site R_Kelowna_s Gospel Mission,333,3.1 in,2.6 in,3.6 in,0.2 in,3.1 in,300,100,Image;StillImage,image/jpeg,image,/objects/r-41.jpeg,/objects/small/r-41_sm.jpg,/objects/thumbs/r-41_th.jpg
+dollarware_372,R-42,Site R_Kelowna_s Gospel Mission,348,4 in,3.5 in,3.7 in,0.2 in,1.8 in,500,100,Image;StillImage,image/jpeg,image,/objects/r-42.jpeg,/objects/small/r-42_sm.jpg,/objects/thumbs/r-42_th.jpg
+dollarware_373,R-43,Site R_Kelowna_s Gospel Mission,260,3.1 in,2.7 in,3.5 in,0.2 in,2.5 in,300,100,Image;StillImage,image/jpeg,image,/objects/r-43.jpeg,/objects/small/r-43_sm.jpg,/objects/thumbs/r-43_th.jpg
+dollarware_374,R-44,Site R_Kelowna_s Gospel Mission,289,3.4 in,3 in,3.9 in,0.2 in,2.3 in,295,100,Image;StillImage,image/jpeg,image,/objects/r-44.jpeg,/objects/small/r-44_sm.jpg,/objects/thumbs/r-44_th.jpg
+dollarware_375,R-45,Site R_Kelowna_s Gospel Mission,342,3.1 in,2.7 in,4.4 in,0.2 in,2.3 in,345,200,Image;StillImage,image/jpeg,image,/objects/r-45.jpeg,/objects/small/r-45_sm.jpg,/objects/thumbs/r-45_th.jpg
+dollarware_376,R-46,Site R_Kelowna_s Gospel Mission,404,3.2 in,2.8 in,4.3 in,0.2 in,2.3 in,445,200,Image;StillImage,image/jpeg,image,/objects/r-46.jpeg,/objects/small/r-46_sm.jpg,/objects/thumbs/r-46_th.jpg
+dollarware_377,R-47,Site R_Kelowna_s Gospel Mission,282,3 in,2.6 in,3.9 in,0.2 in,2.1 in,290,100,Image;StillImage,image/jpeg,image,/objects/r-47.jpeg,/objects/small/r-47_sm.jpg,/objects/thumbs/r-47_th.jpg
+dollarware_378,R-48,Site R_Kelowna_s Gospel Mission,334,3.3 in,2.9 in,4.3 in,0.2 in,2.1 in,370,100,Image;StillImage,image/jpeg,image,/objects/r-48.jpeg,/objects/small/r-48_sm.jpg,/objects/thumbs/r-48_th.jpg
+dollarware_379,R-49,Site R_Kelowna_s Gospel Mission,348,3.4 in,3 in,4.9 in,0.2 in,2.1 in,355,150,Image;StillImage,image/jpeg,image,/objects/r-49.jpeg,/objects/small/r-49_sm.jpg,/objects/thumbs/r-49_th.jpg
+dollarware_380,R-50,Site R_Kelowna_s Gospel Mission,292,3.4 in,3.1 in,3.1 in,0.15 in,2.9 in,365,100,Image;StillImage,image/jpeg,image,/objects/r-50.jpeg,/objects/small/r-50_sm.jpg,/objects/thumbs/r-50_th.jpg
+dollarware_381,R-51,Site R_Kelowna_s Gospel Mission,406,78,72,102,3..6 ,57,250,350,Image;StillImage,image/jpg,image,/objects/r-51.jpg,/objects/small/r-51_sm.jpg,/objects/thumbs/r-51_th.jpg
+dollarware_382,R-52,Site R_Kelowna_s Gospel Mission,354,79,72,94,3.2,61,275,390,Image;StillImage,image/jpg,image,/objects/r-52.jpg,/objects/small/r-52_sm.jpg,/objects/thumbs/r-52_th.jpg
+dollarware_383,R-53,Site R_Kelowna_s Gospel Mission,372,81,69,96,3.4,59,280,400,Image;StillImage,image/jpg,image,/objects/r-53.jpg,/objects/small/r-53_sm.jpg,/objects/thumbs/r-53_th.jpg
+dollarware_384,R-54,Site R_Kelowna_s Gospel Mission,366,79,69,96,3.6,58,260,375,Image;StillImage,image/jpg,image,/objects/r-54.jpg,/objects/small/r-54_sm.jpg,/objects/thumbs/r-54_th.jpg
+dollarware_385,R-55,Site R_Kelowna_s Gospel Mission,321,78,71,110,3,56,300,420,Image;StillImage,image/jpg,image,/objects/r-55.jpg,/objects/small/r-55_sm.jpg,/objects/thumbs/r-55_th.jpg
+dollarware_386,R-56,Site R_Kelowna_s Gospel Mission,322,81,68,94,3.4,61,240,330,Image;StillImage,image/jpg,image,/objects/r-56.jpg,/objects/small/r-56_sm.jpg,/objects/thumbs/r-56_th.jpg
+dollarware_387,R-57,Site R_Kelowna_s Gospel Mission,406,78,71,100,3.4,60,255,365,Image;StillImage,image/jpg,image,/objects/r-57.jpg,/objects/small/r-57_sm.jpg,/objects/thumbs/r-57_th.jpg
+dollarware_388,R-58,Site R_Kelowna_s Gospel Mission,252,78,71,104,3,60,275,390,Image;StillImage,image/jpg,image,/objects/r-58.jpg,/objects/small/r-58_sm.jpg,/objects/thumbs/r-58_th.jpg
+dollarware_389,R-59,Site R_Kelowna_s Gospel Mission,358,79,69,98,3,60,290,410,Image;StillImage,image/jpg,image,/objects/r-59.jpg,/objects/small/r-59_sm.jpg,/objects/thumbs/r-59_th.jpg
+dollarware_390,R-60,Site R_Kelowna_s Gospel Mission,453,77,70,94,3.2,61,260,355,Image;StillImage,image/jpg,image,/objects/r-60.jpg,/objects/small/r-60_sm.jpg,/objects/thumbs/r-60_th.jpg
+dollarware_391,R-62,Site R_Kelowna_s Gospel Mission,343.00,85.42,52.49,100.00,6.68,54.00,,,Image;StillImage,image/jpeg,image,/objects/r-62.jpeg,/objects/small/r-62_sm.jpg,/objects/thumbs/r-62_th.jpg
+dollarware_392,S-01,Site S_iThrift,401.5,91.24,85,112,4.09,77.4,440,230,Image;StillImage,image/jpg,image,/objects/s-01.jpg,/objects/small/s-01_sm.jpg,/objects/thumbs/s-01_th.jpg
+dollarware_393,S-02,Site S_iThrift,335.5,83.13,77,97,3.78,82.43,375,135,Image;StillImage,image/jpg,image,/objects/s-02.jpg,/objects/small/s-02_sm.jpg,/objects/thumbs/s-02_th.jpg
+dollarware_394,S-03,Site S_iThrift,345.1,82.79,76,96,4.15,82.54,360,135,Image;StillImage,image/jpg,image,/objects/s-03.jpg,/objects/small/s-03_sm.jpg,/objects/thumbs/s-03_th.jpg
+dollarware_395,S-04,Site S_iThrift,321.2,80.57,74,94,4.44,80.32,335,125,Image;StillImage,image/jpg,image,/objects/s-04.jpg,/objects/small/s-04_sm.jpg,/objects/thumbs/s-04_th.jpg
+dollarware_396,S-05,Site S_iThrift,234.4,72.15,66,103,3.47,47.52,280,110,Image;StillImage,image/jpg,image,/objects/s-05.jpg,/objects/small/s-05_sm.jpg,/objects/thumbs/s-05_th.jpg
+dollarware_397,S-06,Site S_iThrift,274.9,76.06,63,85,5.95,85.21,305,150,Image;StillImage,image/jpg,image,/objects/s-06.jpg,/objects/small/s-06_sm.jpg,/objects/thumbs/s-06_th.jpg
+dollarware_398,S-07,Site S_iThrift,340,81.66,75,93,4.3,80.55,335,130,Image;StillImage,image/jpg,image,/objects/s-07.jpg,/objects/small/s-07_sm.jpg,/objects/thumbs/s-07_th.jpg
+dollarware_399,S-08,Site S_iThrift,377.6,83.57,76,95,3.83,82.91,335,135,Image;StillImage,image/jpg,image,/objects/s-08.jpg,/objects/small/s-08_sm.jpg,/objects/thumbs/s-08_th.jpg
+dollarware_400,S-09,Site S_iThrift,325.9,82.55,76,95,4.2,81.9,350,125,Image;StillImage,image/jpg,image,/objects/s-09.jpg,/objects/small/s-09_sm.jpg,/objects/thumbs/s-09_th.jpg
+dollarware_401,S-10,Site S_iThrift,338.3,81.72,75,95,4.32,80.8,350,135,Image;StillImage,image/jpg,image,/objects/s-10.jpg,/objects/small/s-10_sm.jpg,/objects/thumbs/s-10_th.jpg
+dollarware_402,S-11,Site S_iThrift,348.5,84.45,80,89,4.75,53.5(represents the furthest base diameter from the rim),170,190,Image;StillImage,image/jpeg,image,/objects/s-11.jpeg,/objects/small/s-11_sm.jpg,/objects/thumbs/s-11_th.jpg
+dollarware_403,S-12,Site S_iThrift,453.75,91.45,78,113,5.35,81.9,490,200,Image;StillImage,image/jpeg,image,/objects/s-12.jpeg,/objects/small/s-12_sm.jpg,/objects/thumbs/s-12_th.jpg
+dollarware_404,S-13,Site S_iThrift,321,85.06,78,100,4.4,59.75,240,175,Image;StillImage,image/jpeg,image,/objects/s-13.jpeg,/objects/small/s-13_sm.jpg,/objects/thumbs/s-13_th.jpg
+dollarware_405,S-14,Site S_iThrift,289,81.6,78,123,2.85,61.22,380,170,Image;StillImage,image/jpeg,image,/objects/s-14.jpeg,/objects/small/s-14_sm.jpg,/objects/thumbs/s-14_th.jpg
+dollarware_406,S-15,Site S_iThrift,260.5,81.4,75,91,4.3,50,270,160,Image;StillImage,image/jpeg,image,/objects/s-15.jpeg,/objects/small/s-15_sm.jpg,/objects/thumbs/s-15_th.jpg
+dollarware_407,S-16,Site S_iThrift,440,82.95,86,98,5.5,92.6,450,180,Image;StillImage,image/jpeg,image,/objects/s-16.jpeg,/objects/small/s-16_sm.jpg,/objects/thumbs/s-16_th.jpg
+dollarware_408,S-17,Site S_iThrift,425.75,85.33,80,95,470,81.5,330,180,Image;StillImage,image/jpeg,image,/objects/s-17.jpeg,/objects/small/s-17_sm.jpg,/objects/thumbs/s-17_th.jpg
+dollarware_409,S-18,Site S_iThrift,296,82.6,76,90,3.75,82.02,340,150,Image;StillImage,image/jpeg,image,/objects/s-18.jpeg,/objects/small/s-18_sm.jpg,/objects/thumbs/s-18_th.jpg
+dollarware_410,S-19,Site S_iThrift,452,89.85,85,105,3.7,83.93,435,180,Image;StillImage,image/jpeg,image,/objects/s-19.jpeg,/objects/small/s-19_sm.jpg,/objects/thumbs/s-19_th.jpg
+dollarware_411,S-20,Site S_iThrift,284,80.35,74,85,4.65,77.94,270,175,Image;StillImage,image/jpeg,image,/objects/s-20.jpeg,/objects/small/s-20_sm.jpg,/objects/thumbs/s-20_th.jpg
+dollarware_412,S-21,Site S_iThrift,393,86.84,63.2,123,5.74,63.35,395,240,Image;StillImage,image/jpg,image,/objects/s-21.jpg,/objects/small/s-21_sm.jpg,/objects/thumbs/s-21_th.jpg
+dollarware_413,S-22,Site S_iThrift,345,82.62,61.24,92,4.62,81.02,345,220,Image;StillImage,image/jpg,image,/objects/s-22.jpg,/objects/small/s-22_sm.jpg,/objects/thumbs/s-22_th.jpg
+dollarware_414,S-23,Site S_iThrift,299.2,82,56.04,96.5,4.2,53.5,325,110,Image;StillImage,image/jpg,image,/objects/s-23.jpg,/objects/small/s-23_sm.jpg,/objects/thumbs/s-23_th.jpg
+dollarware_415,S-24,Site S_iThrift,409.5,86.31,64.3,114,3.5,73.3,460,230,Image;StillImage,image/jpg,image,/objects/s-24.jpg,/objects/small/s-24_sm.jpg,/objects/thumbs/s-24_th.jpg
+dollarware_416,S-25,Site S_iThrift,355.2,92.12,66.9,102,4.1,46.1,375,100,Image;StillImage,image/jpg,image,/objects/s-25.jpg,/objects/small/s-25_sm.jpg,/objects/thumbs/s-25_th.jpg
+dollarware_417,S-26,Site S_iThrift,383.5,90.5,66,112.5,4.52,70.06,390,200,Image;StillImage,image/jpg,image,/objects/s-26.jpg,/objects/small/s-26_sm.jpg,/objects/thumbs/s-26_th.jpg
+dollarware_418,S-27,Site S_iThrift,289.6,82.1,61.62,97,3.87,55.73,300,100,Image;StillImage,image/jpg,image,/objects/s-27.jpg,/objects/small/s-27_sm.jpg,/objects/thumbs/s-27_th.jpg
+dollarware_419,S-28,Site S_iThrift,250.3,70.14,45.67,105,4.59,66.6,265,80,Image;StillImage,image/jpg,image,/objects/s-28.jpg,/objects/small/s-28_sm.jpg,/objects/thumbs/s-28_th.jpg
+dollarware_420,S-29,Site S_iThrift,326.4,88.75,65.9,97,3.68,69.3,365,110,Image;StillImage,image/jpg,image,/objects/s-29.jpg,/objects/small/s-29_sm.jpg,/objects/thumbs/s-29_th.jpg
+dollarware_421,S-30,Site S_iThrift,242.9,80.88,57.76,88,3.39,41.7,270,50,Image;StillImage,image/jpg,image,/objects/s-30.jpg,/objects/small/s-30_sm.jpg,/objects/thumbs/s-30_th.jpg
+dollarware_422,S-61,Site S_iThrift,213,84.58,52.74,90,3.75,50,,,Image;StillImage,image/jpeg,image,/objects/s-61.jpeg,/objects/small/s-61_sm.jpg,/objects/thumbs/s-61_th.jpg
