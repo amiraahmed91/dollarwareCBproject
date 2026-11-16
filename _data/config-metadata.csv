@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
 location,Location,,,,
-weight,Weight(g)
+weightg,Weight(g)
 topexternaldiametermm,Top External Diameter (mm)	
 topinternaldiametermm,Top Internal Diameter (mm)	
 heightmm,Height (mm)	

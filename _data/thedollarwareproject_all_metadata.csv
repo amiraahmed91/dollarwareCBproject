@@ -1,4 +1,4 @@
-objectid,title,location,weightg,topexternaldiametermm ,topinternaldiameter ,heightmm,rimthicknessmm,basediametermm,volumeml,displacementml,type,format,image,object_location,image_small,image_thumb
+objectid,title,location,weightg,topexternaldiametermm,topinternaldiametermm,heightmm,rimthicknessmm,basediametermm,volumeml,displacementml,type,format,image,object_location,image_small,image_thumb
 dollarware_01,A-01,Site A_ Varieté Dollar Depot,371.6,81.9,74.5,95.9,4,80.6,323.7,161,Image;StillImage,image/jpg,image,/objects/a-01.jpg,/objects/small/a-01_sm.jpg,/objects/thumbs/a-01_th.jpg
 dollarware_02,A-02,Site A_ Varieté Dollar Depot,405.1,84.2,76,97.4,4.1,82.9,335.7,184,Image;StillImage,image/jpg,image,/objects/a-02.jpg,/objects/small/a-02_sm.jpg,/objects/thumbs/a-02_th.jpg
 dollarware_03,A-03,Site A_ Varieté Dollar Depot,374.8,82,74.1,95.7,3.9,79.9,311.3,175,Image;StillImage,image/jpg,image,/objects/a-03.jpg,/objects/small/a-03_sm.jpg,/objects/thumbs/a-03_th.jpg

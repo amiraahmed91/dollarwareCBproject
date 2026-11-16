@@ -1,7 +1,7 @@
 field,display_name
 title,Title
 location,Location,,,,
-weight,Weight (g)
+weightg,Weight (g)
 topexternaldiametermm,Top External Diameter (mm)	
 topinternaldiametermm,Top Internal Diameter (mm)	
 heightmm,Height (mm)	
